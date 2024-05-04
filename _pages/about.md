@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Fellow at Nanyang Technological University, working with [**Prof. Tianwei Zhang**](https://personal.ntu.edu.sg/tianwei.zhang/) and [**Prof. Yang Liu**](https://personal.ntu.edu.sg/yangliu/).  I received my Ph.D. degree with honors in School of Cyber Science and Technology from University of Science and Technology of China (USTC) in 2022, advised by [**Prof. Nenghai Yu**](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN), [**Prof. Weiming Zhang**](https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=zh-CN), and **Prof. Huamin Feng**. I also very luckily collaborated closely with Dr. [**Dongdong Chen**](https://www.dongdongchen.bid/) (at Microsoft GenAI) and [**Prof. Jing Liao**](https://www.cityu.edu.hk/stfprofile/jingliao.htm) (at City University of Hong Kong) during my Ph.D. journey.
+I am currently a Research Fellow at Nanyang Technological University, working with [**Prof. Tianwei Zhang**](https://personal.ntu.edu.sg/tianwei.zhang/) and [**Prof. Yang Liu**](https://personal.ntu.edu.sg/yangliu/). Before that, I worked with [**Prof. Florian Kerschbaum**](https://cs.uwaterloo.ca/~fkerschb/) (from University of Waterloo).  I received my Ph.D. degree with honors in School of Cyber Science and Technology from University of Science and Technology of China (USTC) in 2022, advised by [**Prof. Nenghai Yu**](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN), [**Prof. Weiming Zhang**](https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=zh-CN), and **Prof. Huamin Feng**. I also very luckily collaborated closely with Dr. [**Dongdong Chen**](https://www.dongdongchen.bid/) (at Microsoft GenAI) and [**Prof. Jing Liao**](https://www.cityu.edu.hk/stfprofile/jingliao.htm) (at City University of Hong Kong) during my Ph.D. journey. 
 
 My research interest includes AIGC protection and regulation, trustworty AI, and [IP protection for AI models](https://github.com/ZJZAC/awesome-deep-model-IP-protection). 
 
@@ -25,12 +25,54 @@ My research interest includes AIGC protection and regulation, trustworty AI, and
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 Two papers are accepted by ICML 24. Congrats to Kui Zhang and Weitao Feng. 
-- *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 24. Congrats to Hanlin Gu. 
-- *2024.04*: &nbsp;🎉🎉 One paper is accepted by CCS 24. Congrats to Kunsheng Tang. 
-- *2024.03*: &nbsp;🎉🎉 One paper is accepted by TPAMI. Congrats to myself, Fighting. 
+- *2024.05*: &nbsp;🎉🎉 Two papers are accepted by ICML 2024. Congrats to Kui Zhang and Weitao Feng! 
+- *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024. Congrats to Hanlin Gu!
+- *2024.04*: &nbsp;🎉🎉 One paper is accepted by CCS 2024. Congrats to Kunsheng Tang! 
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted by TPAMI. Congrats to myself, Fighting! 
+- *2023.12*: &nbsp;🎉🎉 Three papers are accepted by AAAI 2024. Congrats to Yi Xie, Yihao Huang, and Xiaojian Yuan!
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2024. Congrats to Prof. Wenbo Zhou!
+- *2023.11*: &nbsp;🎉🎉 One paper is accepted by NDSS 2024. Congrats to Chang Liu!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='./publications/img/aqualora.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AquaLoRA: Toward White-box Protection for Customized Stable Diffusion Models via Watermark LoRA]()
+
+Weitao Feng, Wenbo Zhou, Jiyan He, **Jie Zhang** [*corresponding author*], Tianyi Wei, Guanlin Li, Tianwei Zhang, Weiming Zhang, and  Nenghai Yu
+
+[[**Code**]]()
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='./publications/img/tfpp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Transferable Facial Privacy Protection against Blind Face Restoration via Domain-Consistent Adversarial Obfuscation]()
+
+Kui Zhang, Hang Zhou, **Jie Zhang**, Wenbo Zhou, Weiming Zhang, Nenghai Yu
+
+[[**Code**]]()
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='./publications/img/FLU_ijcai.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unlearning during Learning: An Streamlined Federated Machine Unlearning Method]()
+
+Hanlin Gu, Gongxi Zhu, **Jie Zhang**, Yuxing Han, Lixin Fan, Qiang Yang
+
+[[**Code**]]()
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='./publications/img/CCS_24_bias.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,9 +82,6 @@ My research interest includes AIGC protection and regulation, trustworty AI, and
 Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, Nenghai Yu
 
 [[**Code**]]()
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 </div>
 </div>
@@ -60,6 +99,70 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='./publications/img/same.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SAME: Sample Reconstruction Against Model Extraction Attacks](https://arxiv.org/pdf/2312.10578.pdf)
+
+Yi Xie, **Jie Zhang**, Shiqian Zhao, Tianwei Zhang, Xiaofeng Chen
+
+[[**Code**]]()
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='./publications/img/zeroday_aaai24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models](publications/pdf/Zeroday.pdf)
+
+Yihao Huang, Felix Juefei-Xu, Qing Guo, **Jie Zhang**, Yutong Wu, Ming Hu, Tianlin Li, Geguang Pu, Yang Liu
+
+[[**Code**]]()
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='./publications/img/dfhl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Data-Free Hard-Label Robustness Stealing Attack](https://arxiv.org/pdf/2312.05924)
+
+Xiaojian Yuan, Kejiang Chen, Wen Huang, **Jie Zhang**, Weiming Zhang, Nenghai Yu
+
+[[**Code**]](https://github.com/LetheSec/DFHL-RS-Attack)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2024</div><img src='./publications/img/aahs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Attribute-Aware Head Swapping Guided by 3d Modeling](pblications/pdf/Attribute-Aware_Head_Swapping_Guided_by_3d_Modeling.pdf)
+
+Wenbo Zhou, Dongdong Chen, Jing Liao, **Jie Zhang**, Kejiang Chen, Weiming Zhang, Nenghai Yu
+
+[[**code**]]()
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2024</div><img src='./publications/img/timbre.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Detecting Voice Cloning Attacks via Timbre Watermarking](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf)
+
+Chang Liu, **Jie Zhang** [*corresponding author*], Tianwei Zhang, Xi Yang, Weiming Zhang, Nenghai Yu
+
+[[**Project**]](https://timbrewatermarking.github.io/index.html)
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Springer Book</div><img src='./publications/img/book.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -71,6 +174,84 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE</div><img src='./publications/img/scpw.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Robust Database Watermarking Scheme That Preserves Statistical Characteristics](https://ieeexplore.ieee.org/abstract/document/10286426)
+
+Zhiwen Ren, Han Fang, **Jie Zhang**, Zehua Ma, Ronghao Lin, Weiming Zhang, Nenghai Yu
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='./publications/img/protego.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ProTegO: Protect Text Content against OCR Extraction Attack](https://dl.acm.org/doi/10.1145/3581783.3612076)
+
+Yanru He, Kejiang Chen, Guoqiang Chen, Zehua Ma, Kui Zhang, **Jie Zhang**, Huanyu Bian, Han Fang, Weiming Zhang, Nenghai Yu
+
+[[**code**]](https://github.com/Ruby-He/ProTegO)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='./publications/img/protego.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Ada3Diff: Defending against 3D Adversarial Point Clouds via Adaptive Diffusion](https://arxiv.org/pdf/2211.16247)
+
+Kui Zhang, Hang Zhou, **Jie Zhang**, Qidong Huang, Weiming Zhang, and Nenghai Yu
+
+[[**code**]](https://github.com/ZhangXGe/Ada3Diff)
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAI</div><img src='./publications/img/ac_asr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Model Access Control Based on Hidden Adversarial Examples for Automatic Speech Recognition](https://ieeexplore.ieee.org/abstract/document/10152479)
+
+Haozhe Chen, **Jie Zhang** [*corresponding author*], Kejiang Chen, Weiming Zhang, Nenghai Yu
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='./publications/img/autostegafont.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AutoStegaFont: Synthesizing Vector Fonts for Hiding Information in Documents](publications/pdf/AutoStegaFont.pdf)
+
+Xi Yang, **Jie Zhang** [*equal contribution*], Han Fang, Zehua Ma, Chang Liu, Weiming Zhang, Nenghai Yu
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='./publications/img/DeAR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DeAR: A Deep-learning-based Audio Re-cording Resilient Watermarking](https://arxiv.org/pdf/2212.02339.pdf)
+
+Chang Liu, **Jie Zhang** [*equal contribution*], Han Fang, Zehua Ma, Weiming Zhang, Nenghai Yu
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='./publications/img/plg_mia.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Pseudo Label-Guided Model Inversion Attack via Conditional Generative Adversarial Network](https://arxiv.org/pdf/2312.05924)
+
+Xiaojian Yuan, Kejiang Chen, Wen Huang, **Jie Zhang**, Weiming Zhang, Nenghai Yu
+
+[[**Code**]](https://github.com/LetheSec/PLG-MI-Attack)
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='./publications/img/poison_ink_tip.png' alt="sym" width="100%"></div></div>
@@ -101,6 +282,21 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 </div>
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='./publications/img/aaai21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Initiative defense against facial manipulation](publications/pdf/aaai21.pdf)
+
+Qidong Huang, **Jie Zhang** [*equal contribution*], Wenbo Zhou, Weiming Zhang, Nenghai Yu
+
+[[**Code**]](https://github.com/LetheSec/PLG-MI-Attack)
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2020</div><img src='./publications/img/passport.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -128,6 +324,8 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 </div>
 
 
+
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='./publications/img/CCS_24_bias.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -135,71 +333,14 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 
 Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, Nenghai Yu
 
-[[**Code**]]()
-
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='./publications/img/CCS_24_bias.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models](publications/pdf/CCS_24_bias.pdf)
-
-Kunsheng Tang, Wenbo Zhou, **Jie Zhang**, Dongdong Chen, Jing Liao,  Weiming Zhang, Hua Gang, Nenghai Yu
-
-[[**Code**]]()
-
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 </div>
 </div>
 
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='./publications/img/CCS_24_bias.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models](publications/pdf/CCS_24_bias.pdf)
-
-Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, Nenghai Yu
-
-[[**Code**]]()
-
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='./publications/img/CCS_24_bias.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models](publications/pdf/CCS_24_bias.pdf)
-
-Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, Nenghai Yu
-
-[[**Code**]]()
-
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2024</div><img src='./publications/img/CCS_24_bias.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models](publications/pdf/CCS_24_bias.pdf)
-
-Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, Nenghai Yu
-
-[[**Code**]]()
-
-
-</div>
-</div>
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
