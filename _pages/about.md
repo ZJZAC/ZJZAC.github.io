@@ -197,7 +197,7 @@ Yanru He, Kejiang Chen, Guoqiang Chen, Zehua Ma, Kui Zhang, **Jie Zhang**, Huany
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='./publications/img/protego.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2023</div><img src='./publications/img/ada3diff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Ada3Diff: Defending against 3D Adversarial Point Clouds via Adaptive Diffusion](https://arxiv.org/pdf/2211.16247)
