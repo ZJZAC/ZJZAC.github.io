@@ -16,7 +16,7 @@ GEM
     colorator (1.1.0)
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
-    concurrent-ruby (1.1.8)
+    concurrent-ruby (1.2.3)
     dnsruby (1.61.5)
       simpleidn (~> 0.1)
     em-websocket (0.5.2)
@@ -266,9 +266,11 @@ GEM
       unf_ext
     unf_ext (0.0.7.7)
     unicode-display_width (1.7.0)
+    webrick (1.8.1)
     zeitwerk (2.4.2)
 
 PLATFORMS
+  arm64-darwin-23
   universal-darwin-19
   x86_64-linux
 
@@ -277,6 +279,7 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
+  webrick
 
 BUNDLED WITH
    2.2.19
