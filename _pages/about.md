@@ -50,7 +50,7 @@ My research interest includes:
 
 Weitao Feng, Wenbo Zhou, Jiyan He, **Jie Zhang** [*corresponding author*], Tianyi Wei, Guanlin Li, Tianwei Zhang, Weiming Zhang, and  Nenghai Yu
 
-[[**Code**]]()
+[[**Code-TBD**]]()
 
 </div>
 </div>
@@ -63,7 +63,7 @@ Weitao Feng, Wenbo Zhou, Jiyan He, **Jie Zhang** [*corresponding author*], Tiany
 
 Kui Zhang, Hang Zhou, **Jie Zhang**, Wenbo Zhou, Weiming Zhang, Nenghai Yu
 
-[[**Code**]]()
+[[**Code-TBD**]]()
 
 </div>
 </div>
@@ -75,8 +75,7 @@ Kui Zhang, Hang Zhou, **Jie Zhang**, Wenbo Zhou, Weiming Zhang, Nenghai Yu
 
 Hanlin Gu, Gongxi Zhu, **Jie Zhang**, Yuxing Han, Lixin Fan, Qiang Yang
 
-[[**Code**]]()
-
+[[**Code**]](https://github.com/Liar-Mask/FedAU)
 </div>
 </div>
 
@@ -89,7 +88,7 @@ Hanlin Gu, Gongxi Zhu, **Jie Zhang**, Yuxing Han, Lixin Fan, Qiang Yang
 
 Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, Nenghai Yu
 
-[[**Code**]]()
+[[**Code**]](https://github.com/kstanghere/GenderCARE-ccs24)
 
 </div>
 </div>
@@ -102,7 +101,7 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 
 **Jie Zhang**, Dongdong Chen, Jing Liao, Zehua Ma, Han Fang,  Weiming Zhang, Hua Gang,  Nenghai Yu
 
-[[**Code**]]()
+[[**Code-TBD**]]()
 
 </div>
 </div>
@@ -114,7 +113,7 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 
 Yi Xie, **Jie Zhang**, Shiqian Zhao, Tianwei Zhang, Xiaofeng Chen
 
-[[**Code**]]()
+
 
 </div>
 </div>
@@ -126,7 +125,7 @@ Yi Xie, **Jie Zhang**, Shiqian Zhao, Tianwei Zhang, Xiaofeng Chen
 
 Yihao Huang, Felix Juefei-Xu, Qing Guo, **Jie Zhang**, Yutong Wu, Ming Hu, Tianlin Li, Geguang Pu, Yang Liu
 
-[[**Code**]]()
+<!-- [[**Code**]]() -->
 
 </div>
 </div>
@@ -152,7 +151,7 @@ Xiaojian Yuan, Kejiang Chen, Wen Huang, **Jie Zhang**, Weiming Zhang, Nenghai Yu
 
 Wenbo Zhou, Dongdong Chen, Jing Liao, **Jie Zhang**, Kejiang Chen, Weiming Zhang, Nenghai Yu
 
-[[**code**]]()
+<!-- [[**code**]]() -->
 
 </div>
 </div>
@@ -200,7 +199,7 @@ Zhiwen Ren, Han Fang, **Jie Zhang**, Zehua Ma, Ronghao Lin, Weiming Zhang, Nengh
 
 Yanru He, Kejiang Chen, Guoqiang Chen, Zehua Ma, Kui Zhang, **Jie Zhang**, Huanyu Bian, Han Fang, Weiming Zhang, Nenghai Yu
 
-[[**code**]](https://github.com/Ruby-He/ProTegO)
+[[**Code**]](https://github.com/Ruby-He/ProTegO)
 </div>
 </div>
 
@@ -212,7 +211,7 @@ Yanru He, Kejiang Chen, Guoqiang Chen, Zehua Ma, Kui Zhang, **Jie Zhang**, Huany
 
 Kui Zhang, Hang Zhou, **Jie Zhang**, Qidong Huang, Weiming Zhang, and Nenghai Yu
 
-[[**code**]](https://github.com/ZhangXGe/Ada3Diff)
+[[**Code**]](https://github.com/ZhangXGe/Ada3Diff)
 </div>
 </div>
 
@@ -236,6 +235,8 @@ Haozhe Chen, **Jie Zhang** [*corresponding author*], Kejiang Chen, Weiming Zhang
 [AutoStegaFont: Synthesizing Vector Fonts for Hiding Information in Documents](publications/pdf/AutoStegaFont.pdf)
 
 Xi Yang, **Jie Zhang** [*equal contribution*], Han Fang, Zehua Ma, Chang Liu, Weiming Zhang, Nenghai Yu
+
+[[**Demo**]](publications/video/AutoStegaFont.mp4)
 </div>
 </div>
 
