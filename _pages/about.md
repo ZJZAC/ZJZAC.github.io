@@ -46,11 +46,11 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='./publications/img/aqualora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AquaLoRA: Toward White-box Protection for Customized Stable Diffusion Models via Watermark LoRA]()
+[AquaLoRA: Toward White-box Protection for Customized Stable Diffusion Models via Watermark LoRA](./publications/pdf/AquaLoRA_ICML2024.pdf)
 
 Weitao Feng, Wenbo Zhou, Jiyan He, **Jie Zhang** [*corresponding author*], Tianyi Wei, Guanlin Li, Tianwei Zhang, Weiming Zhang, and  Nenghai Yu
 
-[[**Code-TBD**]]()
+[[**Code**]](https://github.com/Georgefwt/AquaLoRA)
 
 </div>
 </div>
