@@ -20,9 +20,9 @@ redirect_from:
 I am currently a Research Fellow at Nanyang Technological University, working with [**Prof. Tianwei Zhang**](https://personal.ntu.edu.sg/tianwei.zhang/) and [**Prof. Yang Liu**](https://personal.ntu.edu.sg/yangliu/). Before that, I worked with [**Prof. Florian Kerschbaum**](https://cs.uwaterloo.ca/~fkerschb/) (from University of Waterloo).  I received my Ph.D. degree with honors in School of Cyber Science and Technology from University of Science and Technology of China (USTC) in 2022, advised by [**Prof. Nenghai Yu**](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN), [**Prof. Weiming Zhang**](https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=zh-CN), and **Prof. Huamin Feng**. I also very luckily collaborated closely with Dr. [**Dongdong Chen**](https://www.dongdongchen.bid/) (at Microsoft GenAI) and [**Prof. Jing Liao**](https://www.cityu.edu.hk/stfprofile/jingliao.htm) (at City University of Hong Kong) during my Ph.D. journey. 
 
 My research interest includes:
-- **AIGC protection and regulation**: [[AAAI 2022]](https://arxiv.org/abs/2108.02488), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf), [[ICML 2024]]()
+- **AIGC protection and regulation**: [[AAAI 2022]](https://arxiv.org/abs/2108.02488), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135)
 
-- **Trustworty AI**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://arxiv.org/pdf/2211.16247), [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[IJCAI 2024]](), [[ICML 2024]]()
+- **Trustworty AI**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://arxiv.org/pdf/2211.16247), [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891)
 
 - [**IP protection for AI models**](https://github.com/ZJZAC/awesome-deep-model-IP-protection): [[AAAI 2020]](https://arxiv.org/pdf/2002.11088), [[NeurIPS 2020]](https://proceedings.neurips.cc/paper/2020/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf), [[MM 2020]](https://arxiv.org/pdf/2104.04268), [[TPAMI 2021]](https://arxiv.org/pdf/2103.04980), [[TAI 2023]](https://ieeexplore.ieee.org/abstract/document/10152479), [[Springer Book]](https://www.springerprofessional.de/en/protecting-image-processing-networks-via-model-watermarking/25420310), [[TPAMI 2024]](publications/pdf/Robust_Model_Watermarking_for_Image_Processing_Networks_via_Structure_Consistency.pdf)
 
@@ -33,6 +33,7 @@ My research interest includes:
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ECCV 2024. Congrats to Runyi Hu! 
 - *2024.05*: &nbsp;🎉🎉 Two papers are accepted by ICML 2024. Congrats to Kui Zhang and Weitao Feng! 
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024. Congrats to Hanlin Gu!
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by CCS 2024. Congrats to Kunsheng Tang! 
@@ -46,7 +47,7 @@ My research interest includes:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='./publications/img/aqualora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AquaLoRA: Toward White-box Protection for Customized Stable Diffusion Models via Watermark LoRA](./publications/pdf/AquaLoRA_ICML2024.pdf)
+[AquaLoRA: Toward White-box Protection for Customized Stable Diffusion Models via Watermark LoRA](https://arxiv.org/pdf/2405.11135)
 
 Weitao Feng, Wenbo Zhou, Jiyan He, **Jie Zhang** [*corresponding author*], Tianyi Wei, Guanlin Li, Tianwei Zhang, Weiming Zhang, and  Nenghai Yu
 
@@ -59,7 +60,7 @@ Weitao Feng, Wenbo Zhou, Jiyan He, **Jie Zhang** [*corresponding author*], Tiany
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='./publications/img/tfpp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Transferable Facial Privacy Protection against Blind Face Restoration via Domain-Consistent Adversarial Obfuscation]()
+[Transferable Facial Privacy Protection against Blind Face Restoration via Domain-Consistent Adversarial Obfuscation](https://icml.cc/virtual/2024/poster/32891)
 
 Kui Zhang, Hang Zhou, **Jie Zhang**, Wenbo Zhou, Weiming Zhang, Nenghai Yu
 
@@ -71,7 +72,7 @@ Kui Zhang, Hang Zhou, **Jie Zhang**, Wenbo Zhou, Weiming Zhang, Nenghai Yu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='./publications/img/FLU_ijcai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Unlearning during Learning: An Streamlined Federated Machine Unlearning Method]()
+[Unlearning during Learning: An Streamlined Federated Machine Unlearning Method](https://arxiv.org/pdf/2405.15474)
 
 Hanlin Gu, Gongxi Zhu, **Jie Zhang**, Yuxing Han, Lixin Fan, Qiang Yang
 
