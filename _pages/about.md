@@ -22,7 +22,7 @@ I am currently a Research Fellow at Nanyang Technological University, working wi
 My research interest includes:
 - **AIGC protection and regulation**: [[AAAI 2022]](https://arxiv.org/abs/2108.02488), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688)
 
-- **Trustworty AI**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://arxiv.org/pdf/2211.16247), [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891)
+- **Trustworty AI**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://arxiv.org/pdf/2211.16247), [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465)
 
 - [**IP protection for AI models**](https://github.com/ZJZAC/awesome-deep-model-IP-protection): [[AAAI 2020]](https://arxiv.org/pdf/2002.11088), [[NeurIPS 2020]](https://proceedings.neurips.cc/paper/2020/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf), [[MM 2020]](https://arxiv.org/pdf/2104.04268), [[TPAMI 2021]](https://arxiv.org/pdf/2103.04980), [[TAI 2023]](https://ieeexplore.ieee.org/abstract/document/10152479), [[Springer Book]](https://www.springerprofessional.de/en/protecting-image-processing-networks-via-model-watermarking/25420310), [[TPAMI 2024]](publications/pdf/Robust_Model_Watermarking_for_Image_Processing_Networks_via_Structure_Consistency.pdf)
 
@@ -33,6 +33,7 @@ My research interest includes:
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 Two papers are accepted by ACM MM 2024. Congrats to Yanghao Su and Ruiqi Wang! 
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ECCV 2024. Congrats to Runyi Hu! 
 - *2024.05*: &nbsp;🎉🎉 Two papers are accepted by ICML 2024. Congrats to Kui Zhang and Weitao Feng! 
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024. Congrats to Hanlin Gu!
@@ -44,6 +45,31 @@ My research interest includes:
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='./publications/img/mm24_xray.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Model X-ray : Detecting Backdoored Models via Decision Boundary](https://arxiv.org/pdf/2402.17465)
+
+Yanghao Su, **Jie Zhang** [*corresponding author*], Ting Xu, Tianwei Zhang, Weiming Zhang, and  Nenghai Yu
+
+[[**Code-TBD**]]()
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='./publications/img/mm24_facial.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FacialPulse: An Efficient RNN-based Depression Detection via Temporal Facial Landmarks]()
+
+Ruiqi Wang, Jinyang Huang, **Jie Zhang**, Xin Liu, Xiang Zhang, Zhi Liu, Peng Zhao, Sigui Chen, and Xiao Sun
+
+[[**Code-TBD**]]()
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='./publications/img/eccv24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -51,7 +77,7 @@ My research interest includes:
 
 Runyi Hu, **Jie Zhang** [*corresponding author*], Ting Xu, Tianwei Zhang, and  Jiwei Li
 
-[[**Code-TBD**]]()
+[[**Code**]](https://github.com/hurunyi/Robust-Wide)
 
 </div>
 </div>
