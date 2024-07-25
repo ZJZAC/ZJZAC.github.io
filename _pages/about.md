@@ -33,16 +33,16 @@ My research interest includes:
 
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by NDSS 2025. Congrats to Yutong Wu! 
-- *2024.07*: &nbsp;🎉🎉 Two papers are accepted by ACM MM 2024. Congrats to Yanghao Su and Ruiqi Wang! 
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ECCV 2024. Congrats to Runyi Hu! 
-- *2024.05*: &nbsp;🎉🎉 Two papers are accepted by ICML 2024. Congrats to Kui Zhang and Weitao Feng! 
-- *2024.04*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024. Congrats to Hanlin Gu!
-- *2024.04*: &nbsp;🎉🎉 One paper is accepted by CCS 2024. Congrats to Kunsheng Tang! 
-- *2024.03*: &nbsp;🎉🎉 One paper is accepted by TPAMI. Congrats to myself, Fighting! 
-- *2023.12*: &nbsp;🎉🎉 Three papers are accepted by AAAI 2024. Congrats to Yi Xie, Yihao Huang, and Xiaojian Yuan!
-- *2023.12*: &nbsp;🎉🎉 One paper is accepted by ICASSP 2024. Congrats to Prof. Wenbo Zhou!
-- *2023.11*: &nbsp;🎉🎉 One paper is accepted by NDSS 2024. Congrats to Chang Liu!
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted to NDSS 2025. Congrats to Yutong Wu! 
+- *2024.07*: &nbsp;🎉🎉 Two papers are accepted to ACM MM 2024. Congrats to Yanghao Su and Ruiqi Wang! 
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted to ECCV 2024. Congrats to Runyi Hu! 
+- *2024.05*: &nbsp;🎉🎉 Two papers are accepted to ICML 2024. Congrats to Kui Zhang and Weitao Feng! 
+- *2024.04*: &nbsp;🎉🎉 One paper is accepted to IJCAI 2024. Congrats to Hanlin Gu!
+- *2024.04*: &nbsp;🎉🎉 One paper is accepted to CCS 2024. Congrats to Kunsheng Tang! 
+- *2024.03*: &nbsp;🎉🎉 One paper is accepted to TPAMI. Congrats to myself, Fighting! 
+- *2023.12*: &nbsp;🎉🎉 Three papers are accepted to AAAI 2024. Congrats to Yi Xie, Yihao Huang, and Xiaojian Yuan!
+- *2023.12*: &nbsp;🎉🎉 One paper is accepted to ICASSP 2024. Congrats to Prof. Wenbo Zhou!
+- *2023.11*: &nbsp;🎉🎉 One paper is accepted to NDSS 2024. Congrats to Chang Liu!
 
 # 📝 Publications 
 
