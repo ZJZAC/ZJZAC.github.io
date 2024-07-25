@@ -77,7 +77,7 @@ Yanghao Su, **Jie Zhang** [*the corresponding author*], Ting Xu, Tianwei Zhang, 
 
 [FacialPulse: An Efficient RNN-based Depression Detection via Temporal Facial Landmarks]() 
 
-Ruiqi Wang, Jinyang Huang, **Jie Zhang**, Xin Liu, Xiang Zhang, Zhi Liu, Peng Zhao, Sigui Chen, and Xiao Sun
+Ruiqi Wang, Jinyang Huang, **Jie Zhang** [*the corresponding author*], Xin Liu, Xiang Zhang, Zhi Liu, Peng Zhao, Sigui Chen, and Xiao Sun
 
 [[**Code-TBD**]]() [Oral (3.97%)]
 
