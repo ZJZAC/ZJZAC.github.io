@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Fellow at Nanyang Technological University, working with [**Prof. Tianwei Zhang**](https://personal.ntu.edu.sg/tianwei.zhang/) and [**Prof. Yang Liu**](https://personal.ntu.edu.sg/yangliu/). Before that, I worked with [**Prof. Florian Kerschbaum**](https://cs.uwaterloo.ca/~fkerschb/) (from University of Waterloo).  I received my Ph.D. degree with honors in School of Cyber Science and Technology from University of Science and Technology of China (USTC) in 2022, advised by [**Prof. Nenghai Yu**](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN), [**Prof. Weiming Zhang**](https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=zh-CN), and **Prof. Huamin Feng**. I also very luckily collaborated closely with Dr. [**Dongdong Chen**](https://www.dongdongchen.bid/) (at Microsoft GenAI) and [**Prof. Jing Liao**](https://www.cityu.edu.hk/stfprofile/jingliao.htm) (at City University of Hong Kong) during my Ph.D. journey. 
+I am currently a Research Scientist at A*STAR Centre for Frontier AI Research ([CFAR](https://www.a-star.edu.sg/cfar)), working with [**Prof. Qing Guo**](https://tsingqguo.github.io/) and [**Prof. Ivor Tsang**](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang). Before that, I was a Research Fellow at Nanyang Technological University, working with [**Prof. Tianwei Zhang**](https://personal.ntu.edu.sg/tianwei.zhang/) and [**Prof. Yang Liu**](https://personal.ntu.edu.sg/yangliu/). Besides, I worked with [**Prof. Florian Kerschbaum**](https://cs.uwaterloo.ca/~fkerschb/) (from University of Waterloo).  I received my Ph.D. degree with honors in School of Cyber Science and Technology from University of Science and Technology of China (USTC) in 2022, advised by [**Prof. Nenghai Yu**](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN), [**Prof. Weiming Zhang**](https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=zh-CN), and **Prof. Huamin Feng**. I also very luckily collaborated closely with Dr. [**Dongdong Chen**](https://www.dongdongchen.bid/) (at Microsoft GenAI) and [**Prof. Jing Liao**](https://www.cityu.edu.hk/stfprofile/jingliao.htm) (at City University of Hong Kong) during my Ph.D. journey. 
 
 My research interest includes:
 - **AIGC protection and regulation**: [[AAAI 2022]](https://arxiv.org/abs/2108.02488), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718)
@@ -28,11 +28,14 @@ My research interest includes:
 
 - **IP protection for different modalities**: [[AAAI 2023]](https://arxiv.org/pdf/2212.02339.pdf), [[AAAI 2023]](publications/pdf/AutoStegaFont.pdf), [[TKDE 2023]](https://ieeexplore.ieee.org/abstract/document/10286426)
 
+- **Affective Computing**: [[MM 2024]]()
+
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉🎉 I join the CFAR, A*STAR as a research scientist. Thanks a lot to Prof. Tianwei Zhang for the support at NTU! 
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted to NDSS 2025. Congrats to Yutong Wu! 
 - *2024.07*: &nbsp;🎉🎉 Two papers are accepted to ACM MM 2024. Congrats to Yanghao Su and Ruiqi Wang! 
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted to ECCV 2024. Congrats to Runyi Hu! 

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jie Zhang"
-description              : "Research Fellow at NTU"
+description              : "Research Scientist"
 repository               : "ZJZAC/ZJZAC.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jie Zhang (张杰)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanyang Technological University"
+  bio              : "CFAR, A*STAR"
   location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=7YkR3CoAAAAJ"
-  email            : "jie_zhang@ntu.edu.sg"
+  email            : "zhang_jie@cfar.a-star.edu.sg"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
