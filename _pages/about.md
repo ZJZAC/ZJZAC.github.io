@@ -28,7 +28,7 @@ My research interest includes:
 
 - **IP protection for different modalities**: [[AAAI 2023]](https://arxiv.org/pdf/2212.02339.pdf), [[AAAI 2023]](publications/pdf/AutoStegaFont.pdf), [[TKDE 2023]](https://ieeexplore.ieee.org/abstract/document/10286426)
 
-- **Affective Computing**: [[MM 2024]]()
+- **Affective Computing**: [[MM 2024]](https://arxiv.org/pdf/2408.03499)
 
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -54,7 +54,7 @@ My research interest includes:
 
 [THEMIS: Regulating Textual Inversion for Personalized Concept Censorship](https://arxiv.org/pdf/2308.10718)
 
-Yutong Wu, **Jie Zhang** [*the corresponding author*], Florian Kerschbaum, and Tianwei Zhang
+Yutong Wu, **Jie Zhang** [*Corresponding Author*], Florian Kerschbaum, and Tianwei Zhang
 
 [[**Code**]](https://github.com/concept-censorship/concept-censorship.github.io/tree/main/code)
 
@@ -67,7 +67,7 @@ Yutong Wu, **Jie Zhang** [*the corresponding author*], Florian Kerschbaum, and T
 
 [Model X-ray : Detecting Backdoored Models via Decision Boundary](https://arxiv.org/pdf/2402.17465)
 
-Yanghao Su, **Jie Zhang** [*the corresponding author*], Ting Xu, Tianwei Zhang, Weiming Zhang, and  Nenghai Yu
+Yanghao Su, **Jie Zhang** [*Corresponding Author*], Ting Xu, Tianwei Zhang, Weiming Zhang, and  Nenghai Yu
 
 [[**Code-TBD**]]()
 
@@ -78,9 +78,9 @@ Yanghao Su, **Jie Zhang** [*the corresponding author*], Ting Xu, Tianwei Zhang, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='./publications/img/mm24_facial.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FacialPulse: An Efficient RNN-based Depression Detection via Temporal Facial Landmarks]() 
+[FacialPulse: An Efficient RNN-based Depression Detection via Temporal Facial Landmarks](https://arxiv.org/pdf/2408.03499) 
 
-Ruiqi Wang, Jinyang Huang, **Jie Zhang** [*the corresponding author*], Xin Liu, Xiang Zhang, Zhi Liu, Peng Zhao, Sigui Chen, and Xiao Sun
+Ruiqi Wang, Jinyang Huang, **Jie Zhang** [*Corresponding Author*], Xin Liu, Xiang Zhang, Zhi Liu, Peng Zhao, Sigui Chen, and Xiao Sun
 
 [[**Code-TBD**]]() [Oral (3.97%)]
 
@@ -92,7 +92,7 @@ Ruiqi Wang, Jinyang Huang, **Jie Zhang** [*the corresponding author*], Xin Liu, 
 
 [Robust-Wide: Robust Watermarking against Instruction-driven Image Editing](https://arxiv.org/pdf/2402.12688)
 
-Runyi Hu, **Jie Zhang** [*the corresponding author*], Ting Xu, Tianwei Zhang, and  Jiwei Li
+Runyi Hu, **Jie Zhang** [*Corresponding Author*], Ting Xu, Tianwei Zhang, and  Jiwei Li
 
 [[**Code**]](https://github.com/hurunyi/Robust-Wide)
 
@@ -106,7 +106,7 @@ Runyi Hu, **Jie Zhang** [*the corresponding author*], Ting Xu, Tianwei Zhang, an
 
 [AquaLoRA: Toward White-box Protection for Customized Stable Diffusion Models via Watermark LoRA](https://arxiv.org/pdf/2405.11135)
 
-Weitao Feng, Wenbo Zhou, Jiyan He, **Jie Zhang** [*the corresponding author*], Tianyi Wei, Guanlin Li, Tianwei Zhang, Weiming Zhang, and  Nenghai Yu
+Weitao Feng, Wenbo Zhou, Jiyan He, **Jie Zhang** [*Corresponding Author*], Tianyi Wei, Guanlin Li, Tianwei Zhang, Weiming Zhang, and  Nenghai Yu
 
 [[**Code**]](https://github.com/Georgefwt/AquaLoRA)
 
@@ -121,7 +121,7 @@ Weitao Feng, Wenbo Zhou, Jiyan He, **Jie Zhang** [*the corresponding author*], T
 
 Kui Zhang, Hang Zhou, **Jie Zhang**, Wenbo Zhou, Weiming Zhang, Nenghai Yu
 
-[[**Code-TBD**]]()
+<!-- [[**Code-TBD**]]() -->
 
 </div>
 </div>
@@ -144,7 +144,7 @@ Hanlin Gu, Gongxi Zhu, **Jie Zhang**, Yuxing Han, Lixin Fan, Qiang Yang
 
 [GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models](publications/pdf/CCS_24_bias.pdf)
 
-Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*the corresponding author*], Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, Nenghai Yu
+Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*Corresponding Author*], Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, Nenghai Yu
 
 [[**Code**]](https://github.com/kstanghere/GenderCARE-ccs24)
 
@@ -159,7 +159,7 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*the corresponding author*], Aishan Li
 
 **Jie Zhang**, Dongdong Chen, Jing Liao, Zehua Ma, Han Fang,  Weiming Zhang, Hua Gang,  Nenghai Yu
 
-[[**Code-TBD**]]()
+<!-- [[**Code-TBD**]]() -->
 
 </div>
 </div>
@@ -183,7 +183,7 @@ Yi Xie, **Jie Zhang**, Shiqian Zhao, Tianwei Zhang, Xiaofeng Chen
 
 Yihao Huang, Felix Juefei-Xu, Qing Guo, **Jie Zhang**, Yutong Wu, Ming Hu, Tianlin Li, Geguang Pu, Yang Liu
 
-<!-- [[**Code**]]() -->
+[[**Code**]](https://github.com/Huang-yihao/Personalization-based_backdoor)
 
 </div>
 </div>
@@ -220,7 +220,7 @@ Wenbo Zhou, Dongdong Chen, Jing Liao, **Jie Zhang**, Kejiang Chen, Weiming Zhang
 
 [Detecting Voice Cloning Attacks via Timbre Watermarking](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf)
 
-Chang Liu, **Jie Zhang** [*the corresponding author*], Tianwei Zhang, Xi Yang, Weiming Zhang, Nenghai Yu
+Chang Liu, **Jie Zhang** [*Corresponding Author*], Tianwei Zhang, Xi Yang, Weiming Zhang, Nenghai Yu
 
 [[**Project**]](https://timbrewatermarking.github.io/index.html)
 
@@ -280,7 +280,7 @@ Kui Zhang, Hang Zhou, **Jie Zhang**, Qidong Huang, Weiming Zhang, and Nenghai Yu
 
 [Model Access Control Based on Hidden Adversarial Examples for Automatic Speech Recognition](https://ieeexplore.ieee.org/abstract/document/10152479)
 
-Haozhe Chen, **Jie Zhang** [*the corresponding author*], Kejiang Chen, Weiming Zhang, Nenghai Yu
+Haozhe Chen, **Jie Zhang** [*Corresponding Author*], Kejiang Chen, Weiming Zhang, Nenghai Yu
 
 </div>
 </div>
@@ -327,7 +327,7 @@ Xiaojian Yuan, Kejiang Chen, Wen Huang, **Jie Zhang**, Weiming Zhang, Nenghai Yu
 
 [Tracing Text Provenance via Context-Aware Lexical Substitution](publications/pdf/aaai22.pdf)
 
-Xi Yang, **Jie Zhang** [*the corresponding author*], Kejiang Chen, Weiming Zhang, Zehua Ma, Feng Wang, Nenghai Yu
+Xi Yang, **Jie Zhang** [*Corresponding Author*], Kejiang Chen, Weiming Zhang, Zehua Ma, Feng Wang, Nenghai Yu
 </div>
 </div>
 
