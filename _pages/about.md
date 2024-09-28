@@ -20,9 +20,9 @@ redirect_from:
 I am currently a Research Scientist at A*STAR Centre for Frontier AI Research ([CFAR](https://www.a-star.edu.sg/cfar)), working with [**Prof. Qing Guo**](https://tsingqguo.github.io/) and [**Prof. Ivor Tsang**](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang). Before that, I was a Research Fellow at Nanyang Technological University, working with [**Prof. Tianwei Zhang**](https://personal.ntu.edu.sg/tianwei.zhang/) and [**Prof. Yang Liu**](https://personal.ntu.edu.sg/yangliu/). Besides, I worked with [**Prof. Florian Kerschbaum**](https://cs.uwaterloo.ca/~fkerschb/) (from University of Waterloo).  I received my Ph.D. degree with honors in School of Cyber Science and Technology from University of Science and Technology of China (USTC) in 2022, advised by [**Prof. Nenghai Yu**](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN), [**Prof. Weiming Zhang**](https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=zh-CN), and **Prof. Huamin Feng**. I also very luckily collaborated closely with Dr. [**Dongdong Chen**](https://www.dongdongchen.bid/) (at Microsoft GenAI) and [**Prof. Jing Liao**](https://www.cityu.edu.hk/stfprofile/jingliao.htm) (at City University of Hong Kong) during my Ph.D. journey. 
 
 My research interest includes:
-- **AIGC protection and regulation**: [[AAAI 2022]](https://arxiv.org/abs/2108.02488), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[S&P 2025]]()
+- **AIGC protection and regulation**: [[AAAI 2022]](https://arxiv.org/abs/2108.02488), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[S&P 2025]](), [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360)
 
-- **Trustworty AI**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://arxiv.org/pdf/2211.16247), [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465)
+- **Trustworty AI**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://arxiv.org/pdf/2211.16247), [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465), [[USENIX Security 2025]]()
 
 - [**IP protection for AI models**](https://github.com/ZJZAC/awesome-deep-model-IP-protection): [[AAAI 2020]](https://arxiv.org/pdf/2002.11088), [[NeurIPS 2020]](https://proceedings.neurips.cc/paper/2020/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf), [[MM 2020]](https://arxiv.org/pdf/2104.04268), [[TPAMI 2021]](https://arxiv.org/pdf/2103.04980), [[TAI 2023]](https://ieeexplore.ieee.org/abstract/document/10152479), [[Springer Book]](https://www.springerprofessional.de/en/protecting-image-processing-networks-via-model-watermarking/25420310), [[TPAMI 2024]](publications/pdf/Robust_Model_Watermarking_for_Image_Processing_Networks_via_Structure_Consistency.pdf)
 
@@ -35,6 +35,8 @@ My research interest includes:
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted to NeurIPS 2024. Congrats to Guanlin Li! 
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted to USENIX Security 2025. Congrats to Junqi Zhang! 
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted to S&P 2025. Congrats to Boheng Li! 
 - *2024.08*: &nbsp;🎉🎉 I join the CFAR, A*STAR as a research scientist. Thanks a lot to Prof. Tianwei Zhang for the support at NTU! 
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted to NDSS 2025. Congrats to Yutong Wu! 
@@ -49,6 +51,35 @@ My research interest includes:
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted to NDSS 2024. Congrats to Chang Liu!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='./publications/img/neurips-24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+[ART: Automatic Red-teaming for Text-to-Image Models to Protect Benign Users](https://arxiv.org/pdf/2405.19360)
+
+Guanlin Li, Kangjie Chen, Shudong Zhang, **Jie Zhang**, Tianwei Zhang
+
+<!-- [[**Code**]](https://github.com/concept-censorship/concept-censorship.github.io/tree/main/code) -->
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX Security 2025</div><img src='./publications/img/usenix25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[The Ghost Navigator: Revisiting the Hidden Vulnerability of Localization in Autonomous Driving]()
+
+Junqi Zhang, Shaoyin Cheng, Linqing Hu, **Jie Zhang**, Chengyu Shi, Xingshuo Han, Tianwei Zhang, Yueqiang Cheng, Weiming Zhang
+
+<!-- [[**Code**]](https://github.com/concept-censorship/concept-censorship.github.io/tree/main/code) -->
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2025</div><img src='./publications/img/SP25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -456,6 +487,7 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 - *2013.09 - 2017.06*, Bachelor of Electrical Engineering and Automation, China University of Geosciences (Beijing).
 
 # 💬 Invited Talks
+- *2024.08*, Trustworthy Generative AI, at CFAR, A*STAR \| [\[slide\]](talks\Zhang_Jie_CFAR.pdf)
 - *2024.04*, AIGC Security, at Nanyang Technological University \| [\[slide\]](talks\AIGC_Security.pdf)
 - *2023.11*, IP Protection on Deep Models and Data, at Shanghai Jiao Tong University \| [\[poster\]](talks\sjtu.jpg)
 - *2023.09*, Model IP Protection, at University of Science and Technology of China  \| [\[slide\]](talks/IP_ustc.pptx)
