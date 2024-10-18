@@ -35,6 +35,7 @@ My research interest includes:
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 GenderCARE is awarded the Distinguished Artifact Award in CCS 2024. Congrats!
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted to NeurIPS 2024. Congrats to Guanlin Li! 
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted to USENIX Security 2025. Congrats to Junqi Zhang! 
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted to S&P 2025. Congrats to Boheng Li! 
@@ -479,6 +480,7 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 
 
 # 🎖 Honors and Awards
+- *2024.10* [Distinguished Artifact Award, CCS, 2024](https://www.sigsac.org/ccs/CCS2024/program/awards.html)
 - *2021.12* National Scholarship for Doctoral Students, China. 
 - *2020.12* Cyberspace Science Scholarship (funded by Academician Xiaomo Wang), China. 
 
