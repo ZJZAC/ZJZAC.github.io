@@ -35,6 +35,7 @@ My research interest includes:
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted to AAAI 2025. Congrats to Haoxiang Tian!
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted to Information Fusion 2024. Congrats to Linqing Hu!
 - *2024.10*: &nbsp;🎉🎉 GenderCARE is awarded the Distinguished Artifact Award in CCS 2024. Congrats!
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted to NeurIPS 2024. Congrats to Guanlin Li! 
@@ -53,6 +54,22 @@ My research interest includes:
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted to NDSS 2024. Congrats to Chang Liu!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2024</div><img src='./publications/img/aaai25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+
+[An LLM-empowered Adaptive Evolutionary Algorithm For Multi-Component Deep Learning Systems](./publications/pdf/aaai25.pdf)
+
+Haoxiang Tian, Xingshuo Han, Guoquan Wu, An Guo, Yuan Zhou, **Jie Zhang**, Shuo Li, Jun Wei, Tianwei Zhang 
+
+<!-- [[**Code**]](https://github.com/concept-censorship/concept-censorship.github.io/tree/main/code) -->
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2024</div><img src='./publications/img/inffus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -500,7 +517,7 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 - *2020.12* Cyberspace Science Scholarship (funded by Academician Xiaomo Wang), China. 
 
 # 📖 Educations
-- *2017.06 - 2022.06*, PhD of Cyber Science, University of Science and Technology of China. 
+- *2017.09 - 2022.06*, PhD of Cyber Science, University of Science and Technology of China. 
 - *2013.09 - 2017.06*, Bachelor of Electrical Engineering and Automation, China University of Geosciences (Beijing).
 
 # 💬 Invited Talks
