@@ -614,7 +614,9 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 
 # 🧰 Useful Tools
 [Survey on IP protection for AI models](https://github.com/ZJZAC/awesome-deep-model-IP-protection)
-[Survey on IP protection for AI models](https://github.com/ZJZAC/awesome-deep-model-IP-protection)
+[Reinforcement Learning Enhanced LLMs: A Survey](https://github.com/ShuheWang1998/Reinforcement-Learning-Enhanced-LLMs-A-Survey)
+[Unlocking the Mysteries of OpenAI o1: A Survey of the Reasoning Abilities of Large Language Models](https://github.com/ShuheSH/A-Survey-of-the-Reasoning-Abilities-of-LLMs)
+
 
 # 💻 Internships
 - *2019.06 - 2019.08*, [Pvmed Research](https://www.pvmedtech.com/en/), China.
