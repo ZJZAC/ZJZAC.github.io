@@ -84,7 +84,7 @@ Others
 
 [AVF-MAE++: Scaling Affective Video Facial Masked Autoencoders via Efficient Audio-Visual Self-Supervised Learning](./publications/pdf/cvpr25-wxc.pdf)
 
-Xuecheng Wu, Heli Sun, Yifan Wang, Jiayu Nie, Jie Zhang, Yabing Wang, Junxiao Xue, Liang He
+Xuecheng Wu, Heli Sun, Yifan Wang, Jiayu Nie, **Jie Zhang**, Yabing Wang, Junxiao Xue, Liang He
 
 <!-- [[**Code**]](https://github.com/hurunyi/VideoShield) -->
 
@@ -96,7 +96,7 @@ Xuecheng Wu, Heli Sun, Yifan Wang, Jiayu Nie, Jie Zhang, Yabing Wang, Junxiao Xu
 
 [SceneTAP: Scene-Coherent Typographic Adversarial Planner against Vision-Language Models in Real-World Environments](https://arxiv.org/pdf/2412.00114)
 
-Yue Cao, Yun Xing, Jie Zhang, Di Lin, Tianwei Zhang, Ivor Tsang, Yang Liu, Qing Guo
+Yue Cao, Yun Xing, **Jie Zhang**, Di Lin, Tianwei Zhang, Ivor Tsang, Yang Liu, Qing Guo
 
 <!-- [[**Code**]](https://github.com/hurunyi/VideoShield) -->
 
