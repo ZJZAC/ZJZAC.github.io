@@ -19,16 +19,21 @@ redirect_from:
 
 I am currently a Research Scientist at A*STAR Centre for Frontier AI Research ([CFAR](https://www.a-star.edu.sg/cfar)), working with [**Prof. Qing Guo**](https://tsingqguo.github.io/) and [**Prof. Ivor Tsang**](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang). Before that, I was a Research Fellow at Nanyang Technological University, working with [**Prof. Tianwei Zhang**](https://personal.ntu.edu.sg/tianwei.zhang/) and [**Prof. Yang Liu**](https://personal.ntu.edu.sg/yangliu/). Besides, I worked with [**Prof. Florian Kerschbaum**](https://cs.uwaterloo.ca/~fkerschb/) (from University of Waterloo).  I received my Ph.D. degree with honors in School of Cyber Science and Technology from University of Science and Technology of China (USTC) in 2022, advised by [**Prof. Nenghai Yu**](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN), [**Prof. Weiming Zhang**](https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=zh-CN), and **Prof. Huamin Feng**. I also very luckily collaborated closely with Dr. [**Dongdong Chen**](https://www.dongdongchen.bid/) (at Microsoft GenAI) and [**Prof. Jing Liao**](https://www.cityu.edu.hk/stfprofile/jingliao.htm) (at City University of Hong Kong) during my Ph.D. journey. 
 
+<div style="text-align: center;">
+    <img src="/images/Research_focus.png" alt="Research Interest" width="70%">
+</div>
+
+
 My recent research interest mainly focuses on ***How to build Trustworthy AI & Gen-AI***:
 
-- **Vulnerability Evaluation**: [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf),  [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[USENIX Security 2025]](./publications/pdf/usenix25-jq.pdf), [[NAACL 2025]](https://arxiv.org/pdf/2410.17052), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf)
+- **Vulnerability Evaluation**: [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf),  [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[USENIX Security 2025]](./publications/pdf/usenix25-jq.pdf), [[NAACL 2025]](https://arxiv.org/pdf/2410.17052), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf), [[TMM 2025]](./publications/pdf/TMM-ls.pdf), [[CVPR 2025]](https://arxiv.org/pdf/2412.00114)
 
 - **Proactive Safeguard**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[MM 2023]](https://arxiv.org/pdf/2211.16247),  [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[AAAI 2025]](./publications/pdf/aaai25.pdf), [[ICASSP 2025]](./publications/pdf/segue.pdf)
 
-- **Post-hoc Forensic**: [[AAAI 2020]](https://arxiv.org/pdf/2002.11088), [[NeurIPS 2020]](https://proceedings.neurips.cc/paper/2020/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf), [[MM 2020]](https://arxiv.org/pdf/2104.04268), [[TPAMI 2021]](https://arxiv.org/pdf/2103.04980), [[AAAI 2022]](publications/pdf/aaai22.pdf),  [[TAI 2023]](https://ieeexplore.ieee.org/abstract/document/10152479), [[Springer Book]](https://www.springerprofessional.de/en/protecting-image-processing-networks-via-model-watermarking/25420310), [[AAAI 2023]](https://arxiv.org/pdf/2212.02339.pdf), [[AAAI 2023]](publications/pdf/AutoStegaFont.pdf), [[TKDE 2023]](https://ieeexplore.ieee.org/abstract/document/10286426), [[TPAMI 2024]](publications/pdf/Robust_Model_Watermarking_for_Image_Processing_Networks_via_Structure_Consistency.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[TIFS 2025]](./publications/pdf/tifs25-ls.pdf), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D),
+- **Post-hoc Forensic**: [[AAAI 2020]](https://arxiv.org/pdf/2002.11088), [[NeurIPS 2020]](https://proceedings.neurips.cc/paper/2020/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf), [[MM 2020]](https://arxiv.org/pdf/2104.04268), [[TPAMI 2021]](https://arxiv.org/pdf/2103.04980), [[AAAI 2022]](publications/pdf/aaai22.pdf),  [[TAI 2023]](https://ieeexplore.ieee.org/abstract/document/10152479), [[Springer Book]](https://www.springerprofessional.de/en/protecting-image-processing-networks-via-model-watermarking/25420310), [[AAAI 2023]](https://arxiv.org/pdf/2212.02339.pdf), [[AAAI 2023]](publications/pdf/AutoStegaFont.pdf), [[TKDE 2023]](https://ieeexplore.ieee.org/abstract/document/10286426), [[TPAMI 2024]](publications/pdf/Robust_Model_Watermarking_for_Image_Processing_Networks_via_Structure_Consistency.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[TIFS 2025]](./publications/pdf/tifs25-ls.pdf), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D)
 
 Others
-- **Affective Computing**: [[MM 2024]](https://arxiv.org/pdf/2408.03499)
+- **Affective Computing**: [[MM 2024]](https://arxiv.org/pdf/2408.03499), [[CVPR 2025]](./publications/pdf/cvpr25-wxc.pdf)
 
 <!-- - **AIGC protection and regulation**: [[AAAI 2022]](publications/pdf/aaai22.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D)
 
@@ -46,6 +51,9 @@ Others
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 I am appointed as the Innovation Lead at CFAR, A*STAR. Congrats to myself, Fighting!
+- *2025.02*: &nbsp;🎉🎉 Two papers are accepted to CVPR 2025. Congrats to Yue Cao and Xuecheng Wu!
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted to TMM. Congrats to Shuai Li!
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted to ICLR 2025. Congrats to Runyi Hu!
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted to USENIX Security 2025. Congrats to Haolin Wu!
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted to TIFS. Congrats to Shuai Li!
@@ -70,6 +78,47 @@ Others
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted to NDSS 2024. Congrats to Chang Liu!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='./publications/img/cvpr25-wxc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AVF-MAE++: Scaling Affective Video Facial Masked Autoencoders via Efficient Audio-Visual Self-Supervised Learning](./publications/pdf/cvpr25-wxc.pdf)
+
+Xuecheng Wu, Heli Sun, Yifan Wang, Jiayu Nie, Jie Zhang, Yabing Wang, Junxiao Xue, Liang He
+
+<!-- [[**Code**]](https://github.com/hurunyi/VideoShield) -->
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='./publications/img/cvpr25-cy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SceneTAP: Scene-Coherent Typographic Adversarial Planner against Vision-Language Models in Real-World Environments](https://arxiv.org/pdf/2412.00114)
+
+Yue Cao, Yun Xing, Jie Zhang, Di Lin, Tianwei Zhang, Ivor Tsang, Yang Liu, Qing Guo
+
+<!-- [[**Code**]](https://github.com/hurunyi/VideoShield) -->
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2025</div><img src='./publications/img/tmm-25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Clean Image May be Dangerous: Data Poisoning Attacks Against Deep Hashing](./publications/pdf/TMM-ls.pdf)
+
+Shuai Li, **Jie Zhang** [*Corresponding Author*], Yuang Qi,  Kejiang Chen, Tianwei Zhang,Weiming Zhang, and Nenghai Yu
+
+<!-- [[**Code**]](https://github.com/hurunyi/VideoShield) -->
+
+</div>
+</div>
+
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='./publications/img/iclr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -607,6 +656,7 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 - *2013.09 - 2017.06*, Bachelor of Electrical Engineering and Automation, China University of Geosciences (Beijing).
 
 # 💬 Invited Talks
+- *2025.02*, Recent LLM Tendency, at CFAR, A*STAR \| [\[slide\]](talks\LLM_tendency.pdf)
 - *2024.08*, Trustworthy Generative AI, at CFAR, A*STAR \| [\[slide\]](talks\Zhang_Jie_CFAR.pdf)
 - *2024.04*, AIGC Security, at Nanyang Technological University \| [\[slide\]](talks\AIGC_Security.pdf)
 - *2023.11*, IP Protection on Deep Models and Data, at Shanghai Jiao Tong University \| [\[poster\]](talks\sjtu.jpg)
