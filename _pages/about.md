@@ -58,7 +58,7 @@ Others
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted to ICLR 2025. Congrats to Runyi Hu!
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted to USENIX Security 2025. Congrats to Haolin Wu!
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted to TIFS. Congrats to Shuai Li!
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted to NAACL 2025. Congrats to Meng Tong!
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted to NAACL 2025 (Oral). Congrats to Meng Tong!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted to ICASSP 2025. Congrats to Zhiling Zhang!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted to AAAI 2025 (Oral). Congrats to Haoxiang Tian!
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted to Information Fusion 2024. Congrats to Linqing Hu!
