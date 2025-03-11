@@ -26,7 +26,7 @@ I am currently a Research Scientist at A*STAR Centre for Frontier AI Research ([
 
 My recent research interest mainly focuses on ***How to build Trustworthy AI & Gen-AI***:
 
-- **Vulnerability Evaluation**: [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf),  [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[USENIX Security 2025]](./publications/pdf/usenix25-jq.pdf), [[NAACL 2025]](https://arxiv.org/pdf/2410.17052), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf), [[TMM 2025]](./publications/pdf/TMM-ls.pdf), [[CVPR 2025]](https://arxiv.org/pdf/2412.00114)
+- **Vulnerability Evaluation**: [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf),  [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[USENIX Security 2025]](./publications/pdf/usenix25-jq.pdf), [[NAACL 2025]](https://arxiv.org/pdf/2410.17052), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf), [[TMM 2025]](./publications/pdf/TMM-ls.pdf), [[CVPR 2025]](https://arxiv.org/pdf/2412.00114), [[S&P 2025]](./publications/pdf/camlopa.pdf)
 
 - **Proactive Safeguard**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[MM 2023]](https://arxiv.org/pdf/2211.16247),  [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[AAAI 2025]](./publications/pdf/aaai25.pdf), [[ICASSP 2025]](./publications/pdf/segue.pdf), [[TDSC 2025]](./publications/pdf/tdsc-tm.pdf)
 
@@ -51,6 +51,7 @@ Others
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted to S&P 2025. Congrats to Xiang Zhang!
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted to TDSC. Congrats to Meng Tong!
 - *2025.02*: &nbsp;🎉🎉 I am appointed as the Innovation Lead at CFAR, A*STAR. Congrats to myself, Fighting!
 - *2025.02*: &nbsp;🎉🎉 Two papers are accepted to CVPR 2025. Congrats to Yue Cao and Xuecheng Wu!
@@ -79,6 +80,18 @@ Others
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted to NDSS 2024. Congrats to Chang Liu!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P 2025</div><img src='./publications/img/camlopa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CamLoPA: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis](./publications/pdf/camlopa.pdf)
+
+Xiang Zhang, **Jie Zhang** [*equal contribution*], Zehua Ma, Jinyang Huang, Meng Li, Huan Yan, Peng Zhao, Zijian Zhang, Qing Guo, Tianwei Zhang, Bin Liu, Nenghai Yu
+
+[[**Video**]](https://www.youtube.com/watch?v=GKam04FzeM4)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2025</div><img src='./publications/img/tdsc-tm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
