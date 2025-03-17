@@ -60,7 +60,7 @@ Others
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted to ICLR 2025. Congrats to Runyi Hu!
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted to USENIX Security 2025. Congrats to Haolin Wu!
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted to TIFS. Congrats to Shuai Li!
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted to NAACL 2025 (<<span style="color:red">Oral</span>). Congrats to Meng Tong!
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted to NAACL 2025 (Oral). Congrats to Meng Tong!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted to ICASSP 2025. Congrats to Zhiling Zhang!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted to AAAI 2025 (Oral). Congrats to Haoxiang Tian!
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted to Information Fusion 2024. Congrats to Linqing Hu!
@@ -113,7 +113,7 @@ Xiang Zhang, **Jie Zhang** [*equal contribution*], Zehua Ma, Jinyang Huang, Meng
 
 Meng Tong, Kejiang Chen, **Jie Zhang**, Yuang Qi, Weiming Zhang, Nenghai Yu, Tianwei Zhang, Zhikun Zhang
 
-<!-- [[**Code**]](https://github.com/hurunyi/VideoShield) -->
+[[**Code**]](https://github.com/mengtong0110/InferDPT)
 
 </div>
 </div>
@@ -206,7 +206,7 @@ Shuai Li, Kejiang Chen, **Jie Zhang**, Kunsheng Tang, Kai Zeng, Weiming Zhang, a
 Meng Tong, Kejiang Chen, Xiaojian Yuan, Jiayang Liu, Weiming Zhang, Nenghai Yu, **Jie Zhang**
 
 
-<!-- [[**Code**]](https://github.com/concept-censorship/concept-censorship.github.io/tree/main/code) -->
+[[**Code**]](https://github.com/mengtong0110/On-the-Vulnerability-of-Text-Sanitization) [Oral]
 
 </div>
 </div>
