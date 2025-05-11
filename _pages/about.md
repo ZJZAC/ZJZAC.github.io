@@ -53,7 +53,7 @@ Others
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted to ICML 2025. Congrats to Yutong Wu and Daiheng Gao!
 - *2025.04*: &nbsp;🎉🎉	I am excited to serve as the Organizer of [the 4th Workshop on Practical Deep Learning (Practical-DL 2025)](https://practical-dl.github.io/)! We warmly welcome your paper submissions, looking forward to your contributions!
-- *2025.04*: &nbsp;🎉🎉 I’m excited to visit MBZUAI as a Visiting Researcher, hosted by Prof. [Nisl Lukas](https://nilslukas.github.io/). Looking forward to the collaboration and new insights!
+- *2025.04*: &nbsp;🎉🎉 I’m excited to visit MBZUAI as a Visiting Researcher, hosted by Prof. [Nils Lukas](https://nilslukas.github.io/). Looking forward to the collaboration and new insights!
 - *2025.03*: &nbsp;🎉🎉 I’m excited to give a talk at the [IMDA Technical Sharing Session on Multimodal Safety](https://www.imda.gov.sg/activities/activities-catalogue/technical-sharing-session-on-multimodal-safety).
 - *2025.03*: &nbsp;🎉🎉 Two papers are accepted to ICME 2025. Congrats to Zhe Lei and Yanyan Liu!
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted to TOSEM. Congrats to Xiaoyu Zhang!
