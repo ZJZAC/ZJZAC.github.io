@@ -30,7 +30,7 @@ My recent research interest mainly focuses on ***How to build Trustworthy AI & G
 
 - **Proactive Safeguard**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[MM 2023]](https://arxiv.org/pdf/2211.16247),  [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[AAAI 2025]](./publications/pdf/aaai25.pdf), [[ICASSP 2025]](./publications/pdf/segue.pdf), [[TDSC 2025]](./publications/pdf/tdsc-tm.pdf), [[TOSEM 2025]](https://arxiv.org/pdf/2312.10766), [[ICML 2025]](https://openreview.net/forum?id=qLA9WbjGcS), [[ICML 2025]]()
 
-- **Post-hoc Forensic**: [[AAAI 2020]](https://arxiv.org/pdf/2002.11088), [[NeurIPS 2020]](https://proceedings.neurips.cc/paper/2020/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf), [[MM 2020]](https://arxiv.org/pdf/2104.04268), [[TPAMI 2021]](https://arxiv.org/pdf/2103.04980), [[AAAI 2022]](publications/pdf/aaai22.pdf),  [[TAI 2023]](https://ieeexplore.ieee.org/abstract/document/10152479), [[Springer Book]](https://www.springerprofessional.de/en/protecting-image-processing-networks-via-model-watermarking/25420310), [[AAAI 2023]](https://arxiv.org/pdf/2212.02339.pdf), [[AAAI 2023]](publications/pdf/AutoStegaFont.pdf), [[TKDE 2023]](https://ieeexplore.ieee.org/abstract/document/10286426), [[TPAMI 2024]](publications/pdf/Robust_Model_Watermarking_for_Image_Processing_Networks_via_Structure_Consistency.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[TIFS 2025]](./publications/pdf/tifs25-ls.pdf), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D)
+- **Post-hoc Forensic**: [[AAAI 2020]](https://arxiv.org/pdf/2002.11088), [[NeurIPS 2020]](https://proceedings.neurips.cc/paper/2020/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf), [[MM 2020]](https://arxiv.org/pdf/2104.04268), [[TPAMI 2021]](https://arxiv.org/pdf/2103.04980), [[AAAI 2022]](publications/pdf/aaai22.pdf),  [[TAI 2023]](https://ieeexplore.ieee.org/abstract/document/10152479), [[Springer Book]](https://www.springerprofessional.de/en/protecting-image-processing-networks-via-model-watermarking/25420310), [[AAAI 2023]](https://arxiv.org/pdf/2212.02339.pdf), [[AAAI 2023]](publications/pdf/AutoStegaFont.pdf), [[TKDE 2023]](https://ieeexplore.ieee.org/abstract/document/10286426), [[TPAMI 2024]](publications/pdf/Robust_Model_Watermarking_for_Image_Processing_Networks_via_Structure_Consistency.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[TIFS 2025]](./publications/pdf/tifs25-ls.pdf), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D), [[ICME 2025]](https://arxiv.org/pdf/2308.12141)
 
 Others
 - **Affective Computing**: [[MM 2024]](https://arxiv.org/pdf/2408.03499), [[CVPR 2025]](./publications/pdf/cvpr25-wxc.pdf)
@@ -55,6 +55,7 @@ Others
 - *2025.04*: &nbsp;🎉🎉	I am excited to serve as the Organizer of [the 4th Workshop on Practical Deep Learning (Practical-DL 2025)](https://practical-dl.github.io/)! We warmly welcome your paper submissions, looking forward to your contributions!
 - *2025.04*: &nbsp;🎉🎉 I’m excited to visit MBZUAI as a Visiting Researcher, hosted by Prof. [Nisl Lukas](https://nilslukas.github.io/). Looking forward to the collaboration and new insights!
 - *2025.03*: &nbsp;🎉🎉 I’m excited to give a talk at the [IMDA Technical Sharing Session on Multimodal Safety](https://www.imda.gov.sg/activities/activities-catalogue/technical-sharing-session-on-multimodal-safety).
+- *2025.03*: &nbsp;🎉🎉 Two papers are accepted to ICME 2025. Congrats to Zhe Lei and Yanyan Liu!
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted to TOSEM. Congrats to Xiaoyu Zhang!
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted to S&P 2025. Congrats to Xiang Zhang!
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted to TDSC. Congrats to Meng Tong!
@@ -105,6 +106,18 @@ Yutong Wu, **Jie Zhang** [*Corresponding Author*], Yiming Li, Chao Zhang, Qing G
 Daiheng Gao, Shilin Lu, Shaw Walters, Wenbo Zhou, Jiaming Chu, **Jie Zhang**, Bang Zhang, Mengxi Jia, Jian Zhao, Zhaoxin Fan, Weiming Zhang
 
 <!-- [[**Code**]](https://github.com/shiningrain/JailGuard) -->
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='./publications/img/icme25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Aparecium: Revealing Secrets from Physical Photographs](https://arxiv.org/pdf/2308.12141)
+
+Zhe Lei, **Jie Zhang** [*Corresponding Author*], Jingtao Li, Weiming Zhang, Nenghai Yu
+
+[[**Demo**]](https://www.linkedin.com/posts/jie-zhang-0a67b9343_we-present-an-innovative-and-robust-watermarking-activity-7285878919340187648-PyJW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFYU_D4BfJzToc_q6EODxx6TkZl5DLLBqNo)
 
 </div>
 </div>
