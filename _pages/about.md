@@ -26,9 +26,9 @@ I am currently a Research Scientist at A*STAR Centre for Frontier AI Research ([
 
 My recent research interest mainly focuses on ***How to build Trustworthy AI & Gen-AI***:
 
-- **Vulnerability Evaluation**: [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf),  [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[USENIX Security 2025]](./publications/pdf/usenix25-jq.pdf), [[NAACL 2025]](https://arxiv.org/pdf/2410.17052), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf), [[TMM 2025]](./publications/pdf/TMM-ls.pdf), [[CVPR 2025]](https://arxiv.org/pdf/2412.00114), [[S&P 2025]](./publications/pdf/camlopa.pdf)
+- **Vulnerability Evaluation**: [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf),  [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[USENIX Security 2025]]([https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-junqi](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-junqi)), [[NAACL 2025]](https://arxiv.org/pdf/2410.17052), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf), [[TMM 2025]](./publications/pdf/TMM-ls.pdf), [[CVPR 2025]](https://arxiv.org/pdf/2412.00114), [[S&P 2025]](./publications/pdf/camlopa.pdf), [[CCS 2025]](https://arxiv.org/pdf/2405.07496)
 
-- **Proactive Safeguard**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[MM 2023]](https://arxiv.org/pdf/2211.16247),  [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[AAAI 2025]](./publications/pdf/aaai25.pdf), [[ICASSP 2025]](./publications/pdf/segue.pdf), [[TDSC 2025]](./publications/pdf/tdsc-tm.pdf), [[TOSEM 2025]](https://arxiv.org/pdf/2312.10766), [[ICML 2025]](https://openreview.net/forum?id=qLA9WbjGcS), [[ICML 2025]]()
+- **Proactive Safeguard**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[MM 2023]](https://arxiv.org/pdf/2211.16247),  [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[AAAI 2025]](./publications/pdf/aaai25.pdf), [[ICASSP 2025]](./publications/pdf/segue.pdf), [[TDSC 2025]](https://arxiv.org/pdf/2310.12214), [[TOSEM 2025]](https://arxiv.org/pdf/2312.10766), [[ICML 2025]](https://openreview.net/forum?id=qLA9WbjGcS), [[ICML 2025]](), [[CCS 2025]](), 
 
 - **Post-hoc Forensic**: [[AAAI 2020]](https://arxiv.org/pdf/2002.11088), [[NeurIPS 2020]](https://proceedings.neurips.cc/paper/2020/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf), [[MM 2020]](https://arxiv.org/pdf/2104.04268), [[TPAMI 2021]](https://arxiv.org/pdf/2103.04980), [[AAAI 2022]](publications/pdf/aaai22.pdf),  [[TAI 2023]](https://ieeexplore.ieee.org/abstract/document/10152479), [[Springer Book]](https://www.springerprofessional.de/en/protecting-image-processing-networks-via-model-watermarking/25420310), [[AAAI 2023]](https://arxiv.org/pdf/2212.02339.pdf), [[AAAI 2023]](publications/pdf/AutoStegaFont.pdf), [[TKDE 2023]](https://ieeexplore.ieee.org/abstract/document/10286426), [[TPAMI 2024]](publications/pdf/Robust_Model_Watermarking_for_Image_Processing_Networks_via_Structure_Consistency.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[TIFS 2025]](./publications/pdf/tifs25-ls.pdf), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D), [[ICME 2025]](https://arxiv.org/pdf/2308.12141)
 
@@ -51,6 +51,7 @@ Others
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 Two papers are accepted to ACM CCS 2025. Congrats to Peigui Qi and Gelei Deng!
 - *2025.05*: &nbsp;🎉🎉 Two papers are accepted to ICML 2025. Congrats to Yutong Wu and Daiheng Gao!
 - *2025.04*: &nbsp;🎉🎉	I am excited to serve as the Organizer of [the 4th Workshop on Practical Deep Learning (Practical-DL 2025)](https://practical-dl.github.io/)! We warmly welcome your paper submissions, looking forward to your contributions!
 - *2025.04*: &nbsp;🎉🎉 I’m excited to visit MBZUAI as a Visiting Researcher, hosted by Prof. [Nils Lukas](https://nilslukas.github.io/). Looking forward to the collaboration and new insights!
@@ -65,31 +66,58 @@ Others
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted to ICLR 2025. Congrats to Runyi Hu!
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted to USENIX Security 2025. Congrats to Haolin Wu!
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted to TIFS. Congrats to Shuai Li!
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted to NAACL 2025 (Oral). Congrats to Meng Tong!
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted to NAACL 2025 (<span style="color: red;"><strong>Oral</strong></span>). Congrats to Meng Tong!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted to ICASSP 2025. Congrats to Zhiling Zhang!
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted to AAAI 2025 (Oral). Congrats to Haoxiang Tian!
+- *2024.12*: &nbsp;🎉🎉 One paper is accepted to AAAI 2025 (<span style="color: red;"><strong>Oral</strong></span>). Congrats to Haoxiang Tian!
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted to Information Fusion 2024. Congrats to Linqing Hu!
-- *2024.10*: &nbsp;🎉🎉 GenderCARE is awarded the Distinguished Artifact Award in CCS 2024. Congrats!
+- *2024.10*: &nbsp;🎉🎉 GenderCARE is awarded the <span style="color: red;"><strong>Distinguished Artifact Award</strong></span> in CCS 2024. Congrats!
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted to NeurIPS 2024. Congrats to Guanlin Li! 
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted to USENIX Security 2025. Congrats to Junqi Zhang! 
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted to S&P 2025. Congrats to Boheng Li! 
 - *2024.08*: &nbsp;🎉🎉 I join the CFAR, A*STAR as a research scientist. Thanks a lot to Prof. Tianwei Zhang for the support at NTU! 
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted to NDSS 2025. Congrats to Yutong Wu! 
-- *2024.07*: &nbsp;🎉🎉 Two papers are accepted to ACM MM 2024 (One Oral). Congrats to Yanghao Su and Ruiqi Wang! 
+- *2024.07*: &nbsp;🎉🎉 Two papers are accepted to ACM MM 2024 (One <span style="color: red;"><strong>Oral</strong></span>). Congrats to Yanghao Su and Ruiqi Wang! 
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted to ECCV 2024. Congrats to Runyi Hu! 
 - *2024.05*: &nbsp;🎉🎉 Two papers are accepted to ICML 2024. Congrats to Kui Zhang and Weitao Feng! 
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted to IJCAI 2024. Congrats to Hanlin Gu!
-- *2024.04*: &nbsp;🎉🎉 One paper is accepted to CCS 2024. Congrats to Kunsheng Tang! 
+- *2024.04*: &nbsp;🎉🎉 One paper is accepted to ACM CCS 2024. Congrats to Kunsheng Tang! 
 - *2024.03*: &nbsp;🎉🎉 One paper is accepted to TPAMI. Congrats to myself, Fighting! 
 - *2023.12*: &nbsp;🎉🎉 Three papers are accepted to AAAI 2024. Congrats to Yi Xie, Yihao Huang, and Xiaojian Yuan!
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted to ICASSP 2024. Congrats to Prof. Wenbo Zhou!
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted to NDSS 2024. Congrats to Chang Liu!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2025</div><img src='./publications/img/ccs25-qi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SafeGuider: Robust and Practical Content Safety Control for Text-to-Image Models]()
+
+Peigui Qi, Kunsheng Tang, Wenbo Zhou, Weiming Zhang, Nenghai Yu, Tianwei Zhang, Qing Guo, **Jie Zhang** [*Corresponding Author*]
+
+<!-- [[**Code**]](https://github.com/shiningrain/JailGuard) -->
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2025</div><img src='./publications/img/ccs25-deng.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Oedipus: LLM-enchanced Reasoning CAPTCHA Solver](https://arxiv.org/pdf/2405.07496)
+
+Gelei Deng, Haoran Ou, Yi Liu, **Jie Zhang**, Tianwei Zhang, Yang Liu
+
+<!-- [[**Code**]](https://github.com/shiningrain/JailGuard) -->
+
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='./publications/img/icml-wu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cowpox: Towards the Immunity of VLM-based Multi-Agent Systems]()
+[Cowpox: Towards the Immunity of VLM-based Multi-Agent Systems](https://icml.cc/virtual/2025/poster/46436)
 
 Yutong Wu, **Jie Zhang** [*Corresponding Author*], Yiming Li, Chao Zhang, Qing Guo, Han Qiu, Nils Lukas, Tianwei Zhang
 
@@ -149,7 +177,7 @@ Xiang Zhang, **Jie Zhang** [*equal contribution*], Zehua Ma, Jinyang Huang, Meng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2025</div><img src='./publications/img/tdsc-tm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[InferDPT: Privacy-preserving Inference for Black-box Large Language Models](./publications/pdf/tdsc-tm.pdf)
+[InferDPT: Privacy-preserving Inference for Black-box Large Language Models](https://arxiv.org/pdf/2310.12214)
 
 Meng Tong, Kejiang Chen, **Jie Zhang**, Yuang Qi, Weiming Zhang, Nenghai Yu, Tianwei Zhang, Zhikun Zhang
 
@@ -246,7 +274,7 @@ Shuai Li, Kejiang Chen, **Jie Zhang**, Kunsheng Tang, Kai Zeng, Weiming Zhang, a
 Meng Tong, Kejiang Chen, Xiaojian Yuan, Jiayang Liu, Weiming Zhang, Nenghai Yu, **Jie Zhang**
 
 
-[[**Code**]](https://github.com/mengtong0110/On-the-Vulnerability-of-Text-Sanitization) [Oral]
+[[**Code**]](https://github.com/mengtong0110/On-the-Vulnerability-of-Text-Sanitization) [<span style="color: red;"><strong>Oral</strong></span>]
 
 </div>
 </div>
@@ -279,7 +307,7 @@ Zhiling Zhang, **Jie Zhang** [*Corresponding Author*], Kui Zhang, Wenbo Zhou, Ti
 Haoxiang Tian, Xingshuo Han, Guoquan Wu, An Guo, Yuan Zhou, **Jie Zhang**, Shuo Li, Jun Wei, Tianwei Zhang 
 
 <!-- [[**Code**]](https://github.com/concept-censorship/concept-censorship.github.io/tree/main/code) -->
-[Oral]
+[<span style="color: red;"><strong>Oral</strong></span>]
 
 </div>
 </div>
@@ -319,7 +347,7 @@ Guanlin Li, Kangjie Chen, Shudong Zhang, **Jie Zhang**, Tianwei Zhang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX Security 2025</div><img src='./publications/img/usenix25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Ghost Navigator: Revisiting the Hidden Vulnerability of Localization in Autonomous Driving]()
+[The Ghost Navigator: Revisiting the Hidden Vulnerability of Localization in Autonomous Driving](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-junqi)
 
 Junqi Zhang, Shaoyin Cheng, Linqing Hu, **Jie Zhang**, Chengyu Shi, Xingshuo Han, Tianwei Zhang, Yueqiang Cheng, Weiming Zhang
 
@@ -375,7 +403,7 @@ Yanghao Su, **Jie Zhang** [*Corresponding Author*], Ting Xu, Tianwei Zhang, Weim
 
 Ruiqi Wang, Jinyang Huang, **Jie Zhang** [*Corresponding Author*], Xin Liu, Xiang Zhang, Zhi Liu, Peng Zhao, Sigui Chen, and Xiao Sun
 
-[[**Code**]](https://github.com/volatileee/FacialPulse) [Oral (3.97%)]
+[[**Code**]](https://github.com/volatileee/FacialPulse) [<span style="color: red;"><strong>Oral</strong></span> (3.97%)]
 
 </div>
 </div>
@@ -439,7 +467,7 @@ Hanlin Gu, Gongxi Zhu, **Jie Zhang**, Yuxing Han, Lixin Fan, Qiang Yang
 
 Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*Corresponding Author*], Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, Nenghai Yu
 
-[[**Code**]](https://github.com/kstanghere/GenderCARE-ccs24)
+[[**Code**]](https://github.com/kstanghere/GenderCARE-ccs24) [<span style="color: red;"><strong>Distinguished Artifact Award</strong></span>] 
 
 </div>
 </div>
