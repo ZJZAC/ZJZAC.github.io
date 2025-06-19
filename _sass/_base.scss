@@ -320,3 +320,25 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/* ==========================================================================
+   CUSTOM PAPER BOX STYLE
+   ========================================================================== */
+
+   .paper-box {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;   // 可调
+  
+    // 防止内容换行
+    flex-wrap: nowrap;
+  }
+  
+  .paper-box-image {
+    flex: 0 0 200px;  // 固定图片宽度，可调
+  }
+  
+  .paper-box-text {
+    flex: 1;  // 自动占剩下空间
+  }
+  
