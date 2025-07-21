@@ -33,7 +33,7 @@ My recent research interest mainly focuses on ***How to build Trustworthy AI & G
 - **Post-hoc Forensic**: [[AAAI 2020]](https://arxiv.org/pdf/2002.11088), [[NeurIPS 2020]](https://proceedings.neurips.cc/paper/2020/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf), [[MM 2020]](https://arxiv.org/pdf/2104.04268), [[TPAMI 2021]](https://arxiv.org/pdf/2103.04980), [[AAAI 2022]](publications/pdf/aaai22.pdf),  [[TAI 2023]](https://ieeexplore.ieee.org/abstract/document/10152479), [[Springer Book]](https://www.springerprofessional.de/en/protecting-image-processing-networks-via-model-watermarking/25420310), [[AAAI 2023]](https://arxiv.org/pdf/2212.02339.pdf), [[AAAI 2023]](publications/pdf/AutoStegaFont.pdf), [[TKDE 2023]](https://ieeexplore.ieee.org/abstract/document/10286426), [[TPAMI 2024]](publications/pdf/Robust_Model_Watermarking_for_Image_Processing_Networks_via_Structure_Consistency.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[TIFS 2025]](./publications/pdf/tifs25-ls.pdf), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D), [[ICME 2025]](), [[ICME 2025]](https://arxiv.org/pdf/2308.12141), [[TDSC 2025]](https://ieeexplore.ieee.org/abstract/document/11037547)
 
 Others
-- **Affective Computing**: [[MM 2024]](https://arxiv.org/pdf/2408.03499), [[CVPR 2025]](./publications/pdf/cvpr25-wxc.pdf)
+- **Affective Computing**: [[MM 2024]](https://arxiv.org/pdf/2408.03499), [[CVPR 2025]](./publications/pdf/cvpr25-wxc.pdf), [[MM 2025]]()
 
 <!-- - **AIGC protection and regulation**: [[AAAI 2022]](publications/pdf/aaai22.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D)
 
@@ -85,6 +85,7 @@ Others
 </style>
 
 <ul id="news-list" style="list-style-type: none; padding-left: 0;">
+<li class="news-item">- <em>2025.07</em>: &nbsp;🎉🎉 One paper is accepted to ACM MM 2025. Congrats to Fengqi Cui!</li>
 <li class="news-item">- <em>2025.06</em>: &nbsp;🎉🎉 Our Watermark Updating Framework has been selected as <span style="color: red;"><strong>Candidates of best paper</strong></span> (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!</li>
 <li class="news-item">- <em>2025.06</em>: &nbsp;🎉🎉 One paper is accepted to TDSC. Congrats to Xi Yang!</li>
 <li class="news-item">- <em>2025.06</em>: &nbsp;🎉🎉 One paper is accepted to USENIX Security 2025. Congrats to Xiang Zhang!</li>
@@ -198,6 +199,19 @@ document.addEventListener('DOMContentLoaded', function() {
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted to NDSS 2024. Congrats to Chang Liu! -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='./publications/img/mm25.png' alt="sym" width=200></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization]()
+
+Feng-Qi Cui, Anyang Tong, Jinyang Huang, **Jie Zhang**, Dan Guo, Zhi Liu, Meng Wang 
+
+<!-- [[**Demo**]](https://drive.google.com/file/d/17cJPO7dffgDxLKg5e3AQ8wEo0fdUYYlt/view?usp=sharing) -->
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2025</div><img src='./publications/img/tdsc25-yx.png' alt="sym" width=200></div></div>
 <div class='paper-box-text' markdown="1">
