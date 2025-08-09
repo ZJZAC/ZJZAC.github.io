@@ -28,12 +28,13 @@ My recent research interest mainly focuses on ***How to build Trustworthy AI & G
 
 - **Vulnerability Evaluation**: [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf),  [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[USENIX Security 2025]](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-junqi), [[NAACL 2025]](https://arxiv.org/pdf/2410.17052), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf), [[TMM 2025]](./publications/pdf/TMM-ls.pdf), [[CVPR 2025]](https://arxiv.org/pdf/2412.00114), [[S&P 2025]](./publications/pdf/camlopa.pdf), [[CCS 2025]](https://arxiv.org/pdf/2405.07496), [[USENIX Security 2025]]()
 
-- **Proactive Safeguard**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[MM 2023]](https://arxiv.org/pdf/2211.16247),  [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[AAAI 2025]](./publications/pdf/aaai25.pdf), [[ICASSP 2025]](./publications/pdf/segue.pdf), [[TDSC 2025]](https://arxiv.org/pdf/2310.12214), [[TOSEM 2025]](https://arxiv.org/pdf/2312.10766), [[ICML 2025]](https://openreview.net/forum?id=qLA9WbjGcS), [[ICML 2025]](), [[CCS 2025]](), 
+- **Proactive Safeguard**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[MM 2023]](https://arxiv.org/pdf/2211.16247),  [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[AAAI 2025]](./publications/pdf/aaai25.pdf), [[ICASSP 2025]](./publications/pdf/segue.pdf), [[TDSC 2025]](https://arxiv.org/pdf/2310.12214), [[TOSEM 2025]](https://arxiv.org/pdf/2312.10766), [[ICML 2025]](https://openreview.net/forum?id=qLA9WbjGcS), [[ICML 2025]](https://openreview.net/pdf?id=5KszXnnkG5), [[CCS 2025]](), 
 
 - **Post-hoc Forensic**: [[AAAI 2020]](https://arxiv.org/pdf/2002.11088), [[NeurIPS 2020]](https://proceedings.neurips.cc/paper/2020/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf), [[MM 2020]](https://arxiv.org/pdf/2104.04268), [[TPAMI 2021]](https://arxiv.org/pdf/2103.04980), [[AAAI 2022]](publications/pdf/aaai22.pdf),  [[TAI 2023]](https://ieeexplore.ieee.org/abstract/document/10152479), [[Springer Book]](https://www.springerprofessional.de/en/protecting-image-processing-networks-via-model-watermarking/25420310), [[AAAI 2023]](https://arxiv.org/pdf/2212.02339.pdf), [[AAAI 2023]](publications/pdf/AutoStegaFont.pdf), [[TKDE 2023]](https://ieeexplore.ieee.org/abstract/document/10286426), [[TPAMI 2024]](publications/pdf/Robust_Model_Watermarking_for_Image_Processing_Networks_via_Structure_Consistency.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[TIFS 2025]](./publications/pdf/tifs25-ls.pdf), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D), [[ICME 2025]](), [[ICME 2025]](https://arxiv.org/pdf/2308.12141), [[TDSC 2025]](https://ieeexplore.ieee.org/abstract/document/11037547)
 
 Others
-- **Affective Computing**: [[MM 2024]](https://arxiv.org/pdf/2408.03499), [[CVPR 2025]](./publications/pdf/cvpr25-wxc.pdf), [[MM 2025]]()
+- **Affective Computing**: [[MM 2024]](https://arxiv.org/pdf/2408.03499), [[CVPR 2025]](./publications/pdf/cvpr25-wxc.pdf), [[MM 2025]](https://arxiv.org/pdf/2507.15765)
+- **AI for Science**: [[AI4X 2025]](https://arxiv.org/pdf/2507.07486)
 
 <!-- - **AIGC protection and regulation**: [[AAAI 2022]](publications/pdf/aaai22.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D)
 
@@ -86,7 +87,8 @@ Others
 
 <ul id="news-list" style="list-style-type: none; padding-left: 0;">
 <li class="news-item">- <em>2025.07</em>: &nbsp;🎉🎉 One paper is accepted to ACM MM 2025. Congrats to Fengqi Cui!</li>
-<li class="news-item">- <em>2025.06</em>: &nbsp;🎉🎉 Our Watermark Updating Framework has been selected as <span style="color: red;"><strong>Candidates of best paper</strong></span> (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!</li>
+<li class="news-item">- <em>2025.07</em>: &nbsp;🎉🎉 One paper is accepted to AI4X 2025 international conference. Congrats to Haoxiang Guan!</li>
+<li class="news-item">- <em>2025.06</em>: &nbsp;🎉🎉 Our Watermark Updating Framework has been selected as <span style="color: red;"><strong><a href="https://2025.ieeeicme.org/awards/">Candidates of best paper</a></strong></span> (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!</li>
 <li class="news-item">- <em>2025.06</em>: &nbsp;🎉🎉 One paper is accepted to TDSC. Congrats to Xi Yang!</li>
 <li class="news-item">- <em>2025.06</em>: &nbsp;🎉🎉 One paper is accepted to USENIX Security 2025. Congrats to Xiang Zhang!</li>
 <li class="news-item">- <em>2025.05</em>: &nbsp;🎉🎉 Two papers are accepted to ACM CCS 2025. Congrats to Peigui Qi and Gelei Deng!</li>
@@ -203,7 +205,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='./publications/img/mm25.png' alt="sym" width=200></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization]()
+[Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization](https://arxiv.org/pdf/2507.15765)
 
 Feng-Qi Cui, Anyang Tong, Jinyang Huang, **Jie Zhang**, Dan Guo, Zhi Liu, Meng Wang 
 
@@ -211,6 +213,20 @@ Feng-Qi Cui, Anyang Tong, Jinyang Huang, **Jie Zhang**, Dan Guo, Zhi Liu, Meng W
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI4X 2025</div><img src='./publications/img/ai4x25.png' alt="sym" width=200></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Sparse Autoencoders Reveal Interpretable Structure in Small Gene Language Models](https://arxiv.org/pdf/2507.07486)
+
+Haoxiang Guan, Jiyan He, **Jie Zhang**
+
+<!-- [[**Demo**]](https://drive.google.com/file/d/17cJPO7dffgDxLKg5e3AQ8wEo0fdUYYlt/view?usp=sharing) -->
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TDSC 2025</div><img src='./publications/img/tdsc25-yx.png' alt="sym" width=200></div></div>
@@ -273,7 +289,7 @@ Gelei Deng, Haoran Ou, Yi Liu, **Jie Zhang**, Tianwei Zhang, Yang Liu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='./publications/img/icml-wu.png' alt="sym" width=200></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cowpox: Towards the Immunity of VLM-based Multi-Agent Systems](https://icml.cc/virtual/2025/poster/46436)
+[Cowpox: Towards the Immunity of VLM-based Multi-Agent Systems](https://openreview.net/pdf?id=5KszXnnkG5)
 
 Yutong Wu, **Jie Zhang** [*Corresponding Author*], Yiming Li, Chao Zhang, Qing Guo, Han Qiu, Nils Lukas, Tianwei Zhang
 
@@ -923,7 +939,7 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 
 
 # 🎖 Honors and Awards
-- *2025.06* Candidates of best paper (One of the Top 15 Papers), ICME, 2025
+- *2025.06* [Candidates of best paper (One of the Top 15 Papers), ICME, 2025](https://2025.ieeeicme.org/awards/)
 - *2024.10* [Distinguished Artifact Award, CCS, 2024](https://www.sigsac.org/ccs/CCS2024/program/awards.html)
 - *2021.12* National Scholarship for Doctoral Students, China. 
 - *2020.12* Cyberspace Science Scholarship (funded by Academician Xiaomo Wang), China. 
@@ -952,4 +968,4 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 
 # 📑 CV 
 <!-- [pdf](cv/ZJ_resume.pdf) -->
-[pdf](cv/ZJ_CV.pdf)
+[pdf](cv/ZJ_CV_tiny.pdf)
