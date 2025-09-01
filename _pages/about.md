@@ -30,11 +30,11 @@ My recent research interest mainly focuses on ***How to build Trustworthy AI & G
 
 - **Proactive Safeguard**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[MM 2023]](https://arxiv.org/pdf/2211.16247),  [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[AAAI 2025]](./publications/pdf/aaai25.pdf), [[ICASSP 2025]](./publications/pdf/segue.pdf), [[TDSC 2025]](https://arxiv.org/pdf/2310.12214), [[TOSEM 2025]](https://arxiv.org/pdf/2312.10766), [[ICML 2025]](https://openreview.net/forum?id=qLA9WbjGcS), [[ICML 2025]](https://openreview.net/pdf?id=5KszXnnkG5), [[CCS 2025]](), 
 
-- **Post-hoc Forensic**: [[AAAI 2020]](https://arxiv.org/pdf/2002.11088), [[NeurIPS 2020]](https://proceedings.neurips.cc/paper/2020/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf), [[MM 2020]](https://arxiv.org/pdf/2104.04268), [[TPAMI 2021]](https://arxiv.org/pdf/2103.04980), [[AAAI 2022]](publications/pdf/aaai22.pdf),  [[TAI 2023]](https://ieeexplore.ieee.org/abstract/document/10152479), [[Springer Book]](https://www.springerprofessional.de/en/protecting-image-processing-networks-via-model-watermarking/25420310), [[AAAI 2023]](https://arxiv.org/pdf/2212.02339.pdf), [[AAAI 2023]](publications/pdf/AutoStegaFont.pdf), [[TKDE 2023]](https://ieeexplore.ieee.org/abstract/document/10286426), [[TPAMI 2024]](publications/pdf/Robust_Model_Watermarking_for_Image_Processing_Networks_via_Structure_Consistency.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[TIFS 2025]](./publications/pdf/tifs25-ls.pdf), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D), [[ICME 2025]](), [[ICME 2025]](https://arxiv.org/pdf/2308.12141), [[TDSC 2025]](https://ieeexplore.ieee.org/abstract/document/11037547)
+- **Post-hoc Forensic**: [[AAAI 2020]](https://arxiv.org/pdf/2002.11088), [[NeurIPS 2020]](https://proceedings.neurips.cc/paper/2020/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf), [[MM 2020]](https://arxiv.org/pdf/2104.04268), [[TPAMI 2021]](https://arxiv.org/pdf/2103.04980), [[AAAI 2022]](publications/pdf/aaai22.pdf),  [[TAI 2023]](https://ieeexplore.ieee.org/abstract/document/10152479), [[Springer Book]](https://www.springerprofessional.de/en/protecting-image-processing-networks-via-model-watermarking/25420310), [[AAAI 2023]](https://arxiv.org/pdf/2212.02339.pdf), [[AAAI 2023]](publications/pdf/AutoStegaFont.pdf), [[TKDE 2023]](https://ieeexplore.ieee.org/abstract/document/10286426), [[TPAMI 2024]](publications/pdf/Robust_Model_Watermarking_for_Image_Processing_Networks_via_Structure_Consistency.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[TIFS 2025]](./publications/pdf/tifs25-ls.pdf), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D), [[ICME 2025]](./publications/pdf/icme-25-2.pdf), [[ICME 2025]](https://arxiv.org/pdf/2308.12141), [[TDSC 2025]](https://ieeexplore.ieee.org/abstract/document/11037547), [[TPAMI 2025]](https://arxiv.org/pdf/2412.08082?)
 
 Others
 - **Affective Computing**: [[MM 2024]](https://arxiv.org/pdf/2408.03499), [[CVPR 2025]](./publications/pdf/cvpr25-wxc.pdf), [[MM 2025]](https://arxiv.org/pdf/2507.15765)
-- **AI for Science**: [[AI4X 2025]](https://arxiv.org/pdf/2507.07486)
+- **AI for Science**: [[AI4X 2025]](https://arxiv.org/pdf/2507.07486), [[AI for Science 2025]](https://iopscience.iop.org/article/10.1088/3050-287X/adfee5/pdf)
 
 <!-- - **AIGC protection and regulation**: [[AAAI 2022]](publications/pdf/aaai22.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D)
 
@@ -86,6 +86,8 @@ Others
 </style>
 
 <ul id="news-list" style="list-style-type: none; padding-left: 0;">
+<li class="news-item">- <em>2025.08</em>: &nbsp;🎉🎉 One paper is accepted to TPAMI. Congrats to Zhongyi Zhang!</li>
+<li class="news-item">- <em>2025.08</em>: &nbsp;🎉🎉 One paper is accepted to AI for Science. Congrats to Jiyan He!</li>
 <li class="news-item">- <em>2025.07</em>: &nbsp;🎉🎉 One paper is accepted to ACM MM 2025. Congrats to Fengqi Cui!</li>
 <li class="news-item">- <em>2025.07</em>: &nbsp;🎉🎉 One paper is accepted to AI4X 2025 international conference. Congrats to Haoxiang Guan!</li>
 <li class="news-item">- <em>2025.06</em>: &nbsp;🎉🎉 Our Watermark Updating Framework has been selected as <span style="color: red;"><strong><a href="https://2025.ieeeicme.org/awards/">Candidates of best paper</a></strong></span> (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!</li>
@@ -201,6 +203,30 @@ document.addEventListener('DOMContentLoaded', function() {
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted to NDSS 2024. Congrats to Chang Liu! -->
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='./publications/img/tpami-25.png' alt="sym" width=200></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FaceTracer: Unveiling Source Identities from Swapped Face Images and Videos for Fraud Prevention](https://arxiv.org/pdf/2412.08082?)
+
+Zhongyi Zhang, **Jie Zhang**, Wenbo Zhou, Xinghui Zhou, Qing Guo, Weiming Zhang, Tianwei Zhang, Nenghai Yu
+
+<!-- [[**Demo**]](https://drive.google.com/file/d/17cJPO7dffgDxLKg5e3AQ8wEo0fdUYYlt/view?usp=sharing) -->
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI for Science 2025</div><img src='./publications/img/ai4s-25.png' alt="sym" width=200></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Controlling Risks of AI in Chemical Science with Agents](https://iopscience.iop.org/article/10.1088/3050-287X/adfee5/pdf)
+
+Jiyan He, Weitao Feng, Yaosen Min, Jingwei Yi, Kunsheng Tang, Shuai Li, **Jie Zhang**, Kejiang Chen, Wenbo Zhou, Xing Xie, Weiming Zhang, Nenghai Yu, Shuxin Zheng
+
+<!-- [[**Demo**]](https://drive.google.com/file/d/17cJPO7dffgDxLKg5e3AQ8wEo0fdUYYlt/view?usp=sharing) -->
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2025</div><img src='./publications/img/mm25.png' alt="sym" width=200></div></div>
 <div class='paper-box-text' markdown="1">
@@ -325,7 +351,7 @@ Zhe Lei, **Jie Zhang** [*Corresponding Author*], Jingtao Li, Weiming Zhang, Neng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025</div><img src='./publications/img/icme25-lyy.png' alt="sym" width=200></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Watermark Updating Framework for Multi-stage Image Content Distribution]()
+[A Watermark Updating Framework for Multi-stage Image Content Distribution](./publications/pdf/icme-25-2.pdf)
 
 Yanyan Liu, Bin Liu, **Jie Zhang**, Xiang Zhang, Zehua Ma, Nenghai Yu
 
@@ -949,6 +975,7 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 - *2013.09 - 2017.06*, Bachelor of Electrical Engineering and Automation, China University of Geosciences (Beijing).
 
 # 💬 Invited Talks
+- *2025.08*, Advancing Trustworthy and Responsible AI, to National AI Research Lab, KAIST \| [\[slide\]](talks\KAIST.pdf)
 - *2025.03*, Building Trustworthy Text-to-Image Models: Risks, Defenses, and Forensics, at IMDA \| [\[slide\]](talks\IMDA.pdf)
 - *2025.02*, Recent LLM Tendency, at CFAR, A*STAR \| [\[slide\]](talks\LLM_tendency.pdf)
 - *2024.08*, Trustworthy Generative AI, at CFAR, A*STAR \| [\[slide\]](talks\Zhang_Jie_CFAR.pdf)
@@ -968,4 +995,5 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 
 # 📑 CV 
 <!-- [pdf](cv/ZJ_resume.pdf) -->
-[pdf](cv/ZJ_CV_tiny.pdf)
+- [CV](cv/ZJ_CV_tiny.pdf)
+<!-- - [CV-full](cv/ZJ_CV.pdf) -->
