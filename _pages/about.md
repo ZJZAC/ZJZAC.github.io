@@ -202,6 +202,14 @@ document.addEventListener('DOMContentLoaded', function() {
 - *2023.12*: &nbsp;🎉🎉 One paper is accepted to ICASSP 2024. Congrats to Prof. Wenbo Zhou!
 - *2023.11*: &nbsp;🎉🎉 One paper is accepted to NDSS 2024. Congrats to Chang Liu! -->
 
+# 📝 Selected Preprints 
+
+- [Visible Yet Unreadable: A Systematic Blind Spot of Vision–Language Models Across Writing Systems](https://zjzac.github.io/publications/pdf/Visible_Yet_Unreadable__A_Systematic_Blind_Spot_of_Vision_Language_Models_Across_Writing_Systems__ArXiv.pdf)
+- [A comprehensive survey in llm (-agent) full stack safety: Data, training and deployment](https://arxiv.org/pdf/2504.15585?)
+- [Reinforcement learning enhanced llms: A survey](https://arxiv.org/pdf/2412.10400)
+
+
+
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='./publications/img/tpami-25.png' alt="sym" width=200></div></div>
 <div class='paper-box-text' markdown="1">
