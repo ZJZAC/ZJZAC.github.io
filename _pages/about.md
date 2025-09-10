@@ -204,7 +204,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 # 📝 Selected Preprints 
 
-- [Visible Yet Unreadable: A Systematic Blind Spot of Vision–Language Models Across Writing Systems](https://zjzac.github.io/publications/pdf/Visible_Yet_Unreadable__A_Systematic_Blind_Spot_of_Vision_Language_Models_Across_Writing_Systems__ArXiv.pdf)
+- [Visible Yet Unreadable: A Systematic Blind Spot of Vision–Language Models Across Writing Systems](https://zjzac.github.io/publications/pdf/Visible_Yet_Unreadable__A_Systematic_Blind_Spot_of_Vision_Language_Models_Across_Writing_Systems__ArXiv.pdf) [[Code]](https://github.com/ZJZAC/character-fusion-generator)
 - [A comprehensive survey in llm (-agent) full stack safety: Data, training and deployment](https://arxiv.org/pdf/2504.15585?)
 - [Reinforcement learning enhanced llms: A survey](https://arxiv.org/pdf/2412.10400)
 
