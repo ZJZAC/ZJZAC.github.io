@@ -26,11 +26,11 @@ I am currently a Research Scientist at A*STAR Centre for Frontier AI Research ([
 
 My recent research interest mainly focuses on ***How to build Trustworthy AI & Gen-AI***:
 
-- **Vulnerability Evaluation**: [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf),  [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[USENIX Security 2025]](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-junqi), [[NAACL 2025]](https://arxiv.org/pdf/2410.17052), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf), [[TMM 2025]](./publications/pdf/TMM-ls.pdf), [[CVPR 2025]](https://arxiv.org/pdf/2412.00114), [[S&P 2025]](./publications/pdf/camlopa.pdf), [[CCS 2025]](https://arxiv.org/pdf/2405.07496), [[USENIX Security 2025]]()
+- **Vulnerability Evaluation**: [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf),  [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[USENIX Security 2025]](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-junqi), [[NAACL 2025]](https://arxiv.org/pdf/2410.17052), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf), [[TMM 2025]](./publications/pdf/TMM-ls.pdf), [[CVPR 2025]](https://arxiv.org/pdf/2412.00114), [[S&P 2025]](./publications/pdf/camlopa.pdf), [[CCS 2025]](https://arxiv.org/pdf/2405.07496), [[USENIX Security 2025]](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-xiang), [[NeurIPS 2025]](https://arxiv.org/pdf/2506.16690)
 
-- **Proactive Safeguard**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[MM 2023]](https://arxiv.org/pdf/2211.16247),  [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[AAAI 2025]](./publications/pdf/aaai25.pdf), [[ICASSP 2025]](./publications/pdf/segue.pdf), [[TDSC 2025]](https://arxiv.org/pdf/2310.12214), [[TOSEM 2025]](https://arxiv.org/pdf/2312.10766), [[ICML 2025]](https://openreview.net/forum?id=qLA9WbjGcS), [[ICML 2025]](https://openreview.net/pdf?id=5KszXnnkG5), [[CCS 2025]](), 
+- **Proactive Safeguard**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[MM 2023]](https://arxiv.org/pdf/2211.16247),  [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[AAAI 2025]](./publications/pdf/aaai25.pdf), [[ICASSP 2025]](./publications/pdf/segue.pdf), [[TDSC 2025]](https://arxiv.org/pdf/2310.12214), [[TOSEM 2025]](https://arxiv.org/pdf/2312.10766), [[ICML 2025]](https://openreview.net/forum?id=qLA9WbjGcS), [[ICML 2025]](https://openreview.net/pdf?id=5KszXnnkG5), [[CCS 2025]](https://arxiv.org/pdf/2510.05173)
 
-- **Post-hoc Forensic**: [[AAAI 2020]](https://arxiv.org/pdf/2002.11088), [[NeurIPS 2020]](https://proceedings.neurips.cc/paper/2020/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf), [[MM 2020]](https://arxiv.org/pdf/2104.04268), [[TPAMI 2021]](https://arxiv.org/pdf/2103.04980), [[AAAI 2022]](publications/pdf/aaai22.pdf),  [[TAI 2023]](https://ieeexplore.ieee.org/abstract/document/10152479), [[Springer Book]](https://www.springerprofessional.de/en/protecting-image-processing-networks-via-model-watermarking/25420310), [[AAAI 2023]](https://arxiv.org/pdf/2212.02339.pdf), [[AAAI 2023]](publications/pdf/AutoStegaFont.pdf), [[TKDE 2023]](https://ieeexplore.ieee.org/abstract/document/10286426), [[TPAMI 2024]](publications/pdf/Robust_Model_Watermarking_for_Image_Processing_Networks_via_Structure_Consistency.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[TIFS 2025]](./publications/pdf/tifs25-ls.pdf), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D), [[ICME 2025]](./publications/pdf/icme-25-2.pdf), [[ICME 2025]](https://arxiv.org/pdf/2308.12141), [[TDSC 2025]](https://ieeexplore.ieee.org/abstract/document/11037547), [[TPAMI 2025]](https://arxiv.org/pdf/2412.08082?)
+- **Post-hoc Forensic**: [[AAAI 2020]](https://arxiv.org/pdf/2002.11088), [[NeurIPS 2020]](https://proceedings.neurips.cc/paper/2020/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf), [[MM 2020]](https://arxiv.org/pdf/2104.04268), [[TPAMI 2021]](https://arxiv.org/pdf/2103.04980), [[AAAI 2022]](publications/pdf/aaai22.pdf),  [[TAI 2023]](https://ieeexplore.ieee.org/abstract/document/10152479), [[Springer Book]](https://www.springerprofessional.de/en/protecting-image-processing-networks-via-model-watermarking/25420310), [[AAAI 2023]](https://arxiv.org/pdf/2212.02339.pdf), [[AAAI 2023]](publications/pdf/AutoStegaFont.pdf), [[TKDE 2023]](https://ieeexplore.ieee.org/abstract/document/10286426), [[TPAMI 2024]](publications/pdf/Robust_Model_Watermarking_for_Image_Processing_Networks_via_Structure_Consistency.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[TIFS 2025]](./publications/pdf/tifs25-ls.pdf), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D), [[ICME 2025]](./publications/pdf/icme-25-2.pdf), [[ICME 2025]](https://arxiv.org/pdf/2308.12141), [[TDSC 2025]](https://ieeexplore.ieee.org/abstract/document/11037547), [[TPAMI 2025]](https://arxiv.org/pdf/2412.08082?), [[NeurIPS 2025]](https://arxiv.org/pdf/2504.12739)
 
 Others
 - **Affective Computing**: [[MM 2024]](https://arxiv.org/pdf/2408.03499), [[CVPR 2025]](./publications/pdf/cvpr25-wxc.pdf), [[MM 2025]](https://arxiv.org/pdf/2507.15765)
@@ -86,6 +86,9 @@ Others
 </style>
 
 <ul id="news-list" style="list-style-type: none; padding-left: 0;">
+<li class="news-item">- <em>2025.10</em>: &nbsp;🎉🎉 One paper is accepted to <a href="https://agents4science.stanford.edu/">Open Conference of AI Agents for Science 2025</a> (The 1st open conference where AI serves as both primary authors and reviewers of research papers). Congrats to my collaborators and myself!</li>
+<li class="news-item">- <em>2025.10</em>: &nbsp;🎉🎉 I’m honored to join the <a href="https://jis-eurasipjournals.springeropen.com/">EURASIP Journal on Information Security</a> as an Associate Editor. I warmly welcome your submissions!</li>
+<li class="news-item">- <em>2025.09</em>: &nbsp;🎉🎉 Two papers are accepted to NeurIPS 2025. Congrats to Runyi Hu and Yun Xing!</li>
 <li class="news-item">- <em>2025.08</em>: &nbsp;🎉🎉 One paper is accepted to TPAMI. Congrats to Zhongyi Zhang!</li>
 <li class="news-item">- <em>2025.08</em>: &nbsp;🎉🎉 One paper is accepted to AI for Science. Congrats to Jiyan He!</li>
 <li class="news-item">- <em>2025.07</em>: &nbsp;🎉🎉 One paper is accepted to ACM MM 2025. Congrats to Fengqi Cui!</li>
@@ -204,13 +207,51 @@ document.addEventListener('DOMContentLoaded', function() {
 
 # 📝 Selected Preprints 
 
-- [Visible Yet Unreadable: A Systematic Blind Spot of Vision–Language Models Across Writing Systems](https://zjzac.github.io/publications/pdf/Visible_Yet_Unreadable__A_Systematic_Blind_Spot_of_Vision_Language_Models_Across_Writing_Systems__ArXiv.pdf) [[Code]](https://github.com/ZJZAC/character-fusion-generator)
 - [A comprehensive survey in llm (-agent) full stack safety: Data, training and deployment](https://arxiv.org/pdf/2504.15585?)
 - [Reinforcement learning enhanced llms: A survey](https://arxiv.org/pdf/2412.10400)
 
 
 
+
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Agent4Science 2025</div><img src='./publications/img/a4s.png' alt="sym" width=200></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Visible Yet Unreadable: A Systematic Blind Spot of Vision–Language Models Across Writing Systems](https://arxiv.org/pdf/2509.06996)
+
+**Jie Zhang**, Ting Xu, Gelei Deng, Runyi Hu, Han Qiu, Tianwei Zhang, Qing Guo, Ivor Tsang
+
+[[**Code**]](https://github.com/ZJZAC/character-fusion-generator)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='./publications/img/nips25-1.png' alt="sym" width=200></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mask Image Watermarking](https://arxiv.org/pdf/2504.12739)
+
+Runyi Hu, **Jie Zhang** [*Corresponding Author*], Shiqian Zhao, Nils Lukas, Jiwei Li, Qing Guo, Han Qiu, Tianwei Zhang
+
+[[**Code**]](https://github.com/hurunyi/MaskWM)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='./publications/img/nips25-2.png' alt="sym" width=200></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DepthVanish: Optimizing Adversarial Interval Structures for Stereo-Depth-Invisible Patches](https://arxiv.org/pdf/2506.16690)
+
+Yun Xing, Yue Cao, Nhat Chung, **Jie Zhang**, Ivor Tsang, Ming-Ming Cheng, Yang Liu, Lei Ma, Qing Guo
+
+<!-- [[**Demo**]](https://drive.google.com/file/d/17cJPO7dffgDxLKg5e3AQ8wEo0fdUYYlt/view?usp=sharing) -->
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='./publications/img/tpami-25.png' alt="sym" width=200></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -280,7 +321,7 @@ Xi Yang, **Jie Zhang** [*Corresponding Author*], Chang Liu, Han Fang, Zehua Ma, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX Security 2025</div><img src='./publications/img/usenix25-zhang.png' alt="sym" width=200></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DiffLoc: WiFi Hidden Camera Localization Based on Electromagnetic Diffraction]()
+[DiffLoc: WiFi Hidden Camera Localization Based on Electromagnetic Diffraction](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-xiang)
 
 Xiang Zhang, Jie Zhang, Huan Yan, Jinyang Huang, Zehua Ma, Bin Liu, Meng Li, Kejiang Chen, Qing Guo, Tianwei Zhang, Zhi Liu
 
@@ -296,7 +337,7 @@ Xiang Zhang, Jie Zhang, Huan Yan, Jinyang Huang, Zehua Ma, Bin Liu, Meng Li, Kej
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCS 2025</div><img src='./publications/img/ccs25-qi.png' alt="sym" width=200></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SafeGuider: Robust and Practical Content Safety Control for Text-to-Image Models]()
+[SafeGuider: Robust and Practical Content Safety Control for Text-to-Image Models](https://arxiv.org/pdf/2510.05173)
 
 Peigui Qi, Kunsheng Tang, Wenbo Zhou, Weiming Zhang, Nenghai Yu, Tianwei Zhang, Qing Guo, **Jie Zhang** [*Corresponding Author*]
 
