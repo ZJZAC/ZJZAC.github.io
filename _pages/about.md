@@ -36,6 +36,7 @@ Others
 - **Affective Computing**: [[MM 2024]](https://arxiv.org/pdf/2408.03499), [[CVPR 2025]](./publications/pdf/cvpr25-wxc.pdf), [[MM 2025]](https://arxiv.org/pdf/2507.15765)
 - **AI for Science**: [[AI4X 2025]](https://arxiv.org/pdf/2507.07486), [[AI for Science 2025]](https://iopscience.iop.org/article/10.1088/3050-287X/adfee5/pdf)
 
+
 <!-- - **AIGC protection and regulation**: [[AAAI 2022]](publications/pdf/aaai22.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D)
 
 - **Trustworty AI**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://arxiv.org/pdf/2211.16247), [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465), [[USENIX Security 2025]](), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[AAAI 2025]](./publications/pdf/aaai25.pdf), [[ICASSP 2025]](./publications/pdf/segue.pdf), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf)
@@ -86,7 +87,7 @@ Others
 </style>
 
 <ul id="news-list" style="list-style-type: none; padding-left: 0;">
-<li class="news-item">- <em>2025.10</em>: &nbsp;🎉🎉 One paper is accepted to <a href="https://agents4science.stanford.edu/">Open Conference of AI Agents for Science 2025</a>. Congrats to my collaborators and myself!</li>
+<li class="news-item">- <em>2025.10</em>: &nbsp;🎉🎉 One paper is accepted to <a href="https://agents4science.stanford.edu/">Open Conference of AI Agents for Science 2025</a> as a <a href="https://agents4science.stanford.edu/accepted-papers.html#:~:text=Visible%20Yet%20Unreadable%3A%20A%20Systematic%20Blind%20Spot%20of%20Vision%E2%80%93Language%20Models%20Across%20Writing%20Systems"><span style="color: red;"><strong>Spotlight</strong></span></a> paper. Congrats to my collaborators and myself!</li>
 <li class="news-item">- <em>2025.10</em>: &nbsp;🎉🎉 I’m honored to join the <a href="https://jis-eurasipjournals.springeropen.com/">EURASIP Journal on Information Security</a> as an Associate Editor. I warmly welcome your submissions!</li>
 <li class="news-item">- <em>2025.09</em>: &nbsp;🎉🎉 Two papers are accepted to NeurIPS 2025. Congrats to Runyi Hu and Yun Xing!</li>
 <li class="news-item">- <em>2025.08</em>: &nbsp;🎉🎉 One paper is accepted to TPAMI. Congrats to Zhongyi Zhang!</li>
@@ -217,11 +218,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Agent4Science 2025</div><img src='./publications/img/a4s.png' alt="sym" width=200></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Visible Yet Unreadable: A Systematic Blind Spot of Vision–Language Models Across Writing Systems](https://arxiv.org/pdf/2509.06996)
+[Visible Yet Unreadable: A Systematic Blind Spot of Vision–Language Models Across Writing Systems](https://arxiv.org/pdf/2509.06996) 
 
-**Jie Zhang**, Ting Xu, Gelei Deng, Runyi Hu, Han Qiu, Tianwei Zhang, Qing Guo, Ivor Tsang
+AI, **Jie Zhang**, Ting Xu, Gelei Deng, Runyi Hu, Han Qiu, Tianwei Zhang, Qing Guo, Ivor Tsang
 
-[[**Code**]](https://github.com/ZJZAC/character-fusion-generator)
+[[**Code**]](https://github.com/ZJZAC/character-fusion-generator) [[**Video**]](publications/video/agent4science-77.mp4) [<span style="color: red;"><strong>Spotlight</strong></span>]
+
 
 </div>
 </div>
@@ -341,7 +343,7 @@ Xiang Zhang, Jie Zhang, Huan Yan, Jinyang Huang, Zehua Ma, Bin Liu, Meng Li, Kej
 
 Peigui Qi, Kunsheng Tang, Wenbo Zhou, Weiming Zhang, Nenghai Yu, Tianwei Zhang, Qing Guo, **Jie Zhang** [*Corresponding Author*]
 
-<!-- [[**Code**]](https://github.com/shiningrain/JailGuard) -->
+[[**Project Page**]](https://academic-page.github.io/SafeGuider/)
 
 </div>
 </div>
@@ -380,7 +382,7 @@ Yutong Wu, **Jie Zhang** [*Corresponding Author*], Yiming Li, Chao Zhang, Qing G
 
 Daiheng Gao, Shilin Lu, Shaw Walters, Wenbo Zhou, Jiaming Chu, **Jie Zhang**, Bang Zhang, Mengxi Jia, Jian Zhao, Zhaoxin Fan, Weiming Zhang
 
-<!-- [[**Code**]](https://github.com/shiningrain/JailGuard) -->
+[[**Project Page**]](https://tomguluson92.github.io/projects/eraseanything/)
 
 </div>
 </div>
@@ -726,7 +728,7 @@ Hanlin Gu, Gongxi Zhu, **Jie Zhang**, Yuxing Han, Lixin Fan, Qiang Yang
 
 Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*Corresponding Author*], Aishan Liu, Gelei Deng, Shuai Li, Peigui Qi, Weiming Zhang, Tianwei Zhang, Nenghai Yu
 
-[[**Code**]](https://github.com/kstanghere/GenderCARE-ccs24) [<span style="color: red;"><strong>Distinguished Artifact Award</strong></span>] 
+[[**Project Page**]](https://academic-page.github.io/GenderCARE/) [<span style="color: red;"><strong>Distinguished Artifact Award</strong></span>] 
 
 </div>
 </div>
@@ -802,7 +804,7 @@ Wenbo Zhou, Dongdong Chen, Jing Liao, **Jie Zhang**, Kejiang Chen, Weiming Zhang
 
 Chang Liu, **Jie Zhang** [*Corresponding Author*], Tianwei Zhang, Xi Yang, Weiming Zhang, Nenghai Yu
 
-[[**Project**]](https://timbrewatermarking.github.io/index.html)
+[[**Project Page**]](https://timbrewatermarking.github.io/index.html)
 
 </div>
 </div>
@@ -1036,7 +1038,7 @@ Kunsheng Tang, Wenbo Zhou, **Jie Zhang** [*corresponding author*], Aishan Liu, G
 - [Survey on IP protection for AI models](https://github.com/ZJZAC/awesome-deep-model-IP-protection)
 - [Reinforcement Learning Enhanced LLMs: A Survey](https://github.com/ShuheWang1998/Reinforcement-Learning-Enhanced-LLMs-A-Survey)
 - [Unlocking the Mysteries of OpenAI o1: A Survey of the Reasoning Abilities of Large Language Models](https://github.com/ShuheSH/A-Survey-of-the-Reasoning-Abilities-of-LLMs)
-
+- Selected Projects: [[**SafeGuider**]](https://academic-page.github.io/SafeGuider/), [[**GenderCARE**]](https://academic-page.github.io/GenderCARE/), [[**Timbre Watermarking**]](https://timbrewatermarking.github.io/index.html), [[**EraseAnything**]](https://tomguluson92.github.io/projects/eraseanything/)
 
 # 💻 Internships
 - *2019.06 - 2019.08*, [Pvmed Research](https://www.pvmedtech.com/en/), China.
