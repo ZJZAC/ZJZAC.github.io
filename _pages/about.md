@@ -94,7 +94,7 @@ Others
 <li class="news-item">- <em>2025.08</em>: &nbsp;🎉🎉 One paper is accepted to AI for Science. Congrats to Jiyan He!</li>
 <li class="news-item">- <em>2025.07</em>: &nbsp;🎉🎉 One paper is accepted to ACM MM 2025. Congrats to Fengqi Cui!</li>
 <li class="news-item">- <em>2025.07</em>: &nbsp;🎉🎉 One paper is accepted to AI4X 2025 international conference. Congrats to Haoxiang Guan!</li>
-<li class="news-item">- <em>2025.06</em>: &nbsp;🎉🎉 Our Watermark Updating Framework has been selected as <span style="color: red;"><strong><a href="https://2025.ieeeicme.org/awards/">Candidates of best paper</a></strong></span> (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!</li>
+<li class="news-item">- <em>2025.06</em>: &nbsp;🎉🎉 Our Watermark Updating Framework has been selected as <a href="https://2025.ieeeicme.org/awards/"><span style="color: red;"><strong>Candidates of best paper</strong></span></a> (one of the Top 15 Papers) in ICME 2025. Congrats to Yanyan Liu!</li>
 <li class="news-item">- <em>2025.06</em>: &nbsp;🎉🎉 One paper is accepted to TDSC. Congrats to Xi Yang!</li>
 <li class="news-item">- <em>2025.06</em>: &nbsp;🎉🎉 One paper is accepted to USENIX Security 2025. Congrats to Xiang Zhang!</li>
 <li class="news-item">- <em>2025.05</em>: &nbsp;🎉🎉 Two papers are accepted to ACM CCS 2025. Congrats to Peigui Qi and Gelei Deng!</li>
