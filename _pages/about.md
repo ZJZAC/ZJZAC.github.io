@@ -222,7 +222,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 AI, **Jie Zhang**, Ting Xu, Gelei Deng, Runyi Hu, Han Qiu, Tianwei Zhang, Qing Guo, Ivor Tsang
 
-[[**Code**]](https://github.com/ZJZAC/character-fusion-generator) [[**Video**]](publications/video/agent4science-77.mp4) [<span style="color: red;"><strong>Spotlight</strong></span>]
+[[**Code**]](https://github.com/ZJZAC/character-fusion-generator) [[**Video**]](https://drive.google.com/file/d/1XMB4I-OdhDZWT5wSQyqd8kKuS58OzG-j/view?usp=sharing) [<span style="color: red;"><strong>Spotlight</strong></span>]
 
 
 </div>
