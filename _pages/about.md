@@ -26,7 +26,7 @@ I am currently a Research Scientist at A*STAR Centre for Frontier AI Research ([
 
 My recent research interest mainly focuses on ***How to build Trustworthy AI & Gen-AI***:
 
-- **Vulnerability Evaluation**: [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf),  [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[USENIX Security 2025]](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-junqi), [[NAACL 2025]](https://arxiv.org/pdf/2410.17052), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf), [[TMM 2025]](./publications/pdf/TMM-ls.pdf), [[CVPR 2025]](https://arxiv.org/pdf/2412.00114), [[S&P 2025]](./publications/pdf/camlopa.pdf), [[CCS 2025]](https://arxiv.org/pdf/2405.07496), [[USENIX Security 2025]](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-xiang), [[NeurIPS 2025]](https://arxiv.org/pdf/2506.16690), [[Agent4Science 2025]](https://arxiv.org/pdf/2509.06996), [[AAAI 2026]](https://arxiv.org/pdf/2412.08014)
+- **Vulnerability Evaluation**: [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf),  [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[USENIX Security 2025]](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-junqi), [[NAACL 2025]](https://arxiv.org/pdf/2410.17052), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf), [[TMM 2025]](./publications/pdf/TMM-ls.pdf), [[CVPR 2025]](https://arxiv.org/pdf/2412.00114), [[S&P 2025]](./publications/pdf/camlopa.pdf), [[CCS 2025]](https://arxiv.org/pdf/2405.07496), [[USENIX Security 2025]](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-xiang), [[NeurIPS 2025]](https://arxiv.org/pdf/2506.16690), [[Agent4Science 2025]](https://arxiv.org/pdf/2509.06996), [[CIKM 2025]](https://dl.acm.org/doi/10.1145/3746252.3760916), [[AAAI 2026]](https://arxiv.org/pdf/2412.08014)
 
 - **Proactive Safeguard**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[MM 2023]](https://arxiv.org/pdf/2211.16247),  [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[AAAI 2025]](./publications/pdf/aaai25.pdf), [[ICASSP 2025]](./publications/pdf/segue.pdf), [[TDSC 2025]](https://arxiv.org/pdf/2310.12214), [[TOSEM 2025]](https://arxiv.org/pdf/2312.10766), [[ICML 2025]](https://openreview.net/forum?id=qLA9WbjGcS), [[ICML 2025]](https://openreview.net/pdf?id=5KszXnnkG5), [[CCS 2025]](https://arxiv.org/pdf/2510.05173)
 
@@ -88,6 +88,7 @@ Others
 
 <ul id="news-list" style="list-style-type: none; padding-left: 0;">
 <li class="news-item">- <em>2025.11</em>: &nbsp;🎉🎉 One paper is accepted to AAAI 2026. Congrats to Yun Xing!</li>
+<li class="news-item">- <em>2025.11</em>: &nbsp;🎉🎉 One paper is accepted to CIKM 2025. Congrats to Yidan Sun!</li>
 <li class="news-item">- <em>2025.10</em>: &nbsp;🎉🎉 One paper is accepted to <a href="https://agents4science.stanford.edu/">Open Conference of AI Agents for Science 2025</a> as a <a href="https://agents4science.stanford.edu/accepted-papers.html#:~:text=Visible%20Yet%20Unreadable%3A%20A%20Systematic%20Blind%20Spot%20of%20Vision%E2%80%93Language%20Models%20Across%20Writing%20Systems"><span style="color: red;"><strong>Spotlight</strong></span></a> paper. Congrats to my collaborators and myself!</li>
 <li class="news-item">- <em>2025.10</em>: &nbsp;🎉🎉 I’m honored to join the <a href="https://jis-eurasipjournals.springeropen.com/">EURASIP Journal on Information Security</a> as an Associate Editor. I warmly welcome your submissions!</li>
 <li class="news-item">- <em>2025.09</em>: &nbsp;🎉🎉 Two papers are accepted to NeurIPS 2025. Congrats to Runyi Hu and Yun Xing!</li>
@@ -223,6 +224,16 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 Yun Xing, Nhat Chung, **Jie Zhang**, Yue Cao, Ivor Tsang, Yang Liu, Lei Ma, Qing Guo
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='./publications/img/cikm25.png' alt="sym" width=200></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Evaluating Differentially Private Generation of Domain-Specific Text](https://dl.acm.org/doi/10.1145/3746252.3760916) 
+
+Yidan Sun, Viktor Schlegel, Srinivasan Nandakumar, Iqra Zahid, Yuping Wu, Warren Del-Pinto, Goran Nenadic, Siew-Kei Lam, **Jie Zhang**,  Anil A Bharath
 
 </div>
 </div>
