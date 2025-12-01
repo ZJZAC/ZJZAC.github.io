@@ -26,7 +26,7 @@ I am currently a Research Scientist at A*STAR Centre for Frontier AI Research ([
 
 My recent research interest mainly focuses on ***How to build Trustworthy AI & Gen-AI***:
 
-- **Vulnerability Evaluation**: [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf),  [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[USENIX Security 2025]](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-junqi), [[NAACL 2025]](https://arxiv.org/pdf/2410.17052), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf), [[TMM 2025]](./publications/pdf/TMM-ls.pdf), [[CVPR 2025]](https://arxiv.org/pdf/2412.00114), [[S&P 2025]](./publications/pdf/camlopa.pdf), [[CCS 2025]](https://arxiv.org/pdf/2405.07496), [[USENIX Security 2025]](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-xiang), [[NeurIPS 2025]](https://arxiv.org/pdf/2506.16690), [[Agent4Science 2025]](https://arxiv.org/pdf/2509.06996), [[CIKM 2025]](https://dl.acm.org/doi/10.1145/3746252.3760916), [[AAAI 2026]](https://arxiv.org/pdf/2412.08014)
+- **Vulnerability Evaluation**: [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf),  [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[USENIX Security 2025]](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-junqi), [[NAACL 2025]](https://arxiv.org/pdf/2410.17052), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf), [[TMM 2025]](./publications/pdf/TMM-ls.pdf), [[CVPR 2025]](https://arxiv.org/pdf/2412.00114), [[S&P 2025]](./publications/pdf/camlopa.pdf), [[CCS 2025]](https://arxiv.org/pdf/2405.07496), [[USENIX Security 2025]](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-xiang), [[NeurIPS 2025]](https://arxiv.org/pdf/2506.16690), [[Agent4Science 2025]](https://arxiv.org/pdf/2509.06996), [[CIKM 2025]](https://dl.acm.org/doi/10.1145/3746252.3760916), [[AAAI 2026]](https://arxiv.org/pdf/2412.08014), [[NDSS 2026]](https://arxiv.org/pdf/2508.06837)
 
 - **Proactive Safeguard**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[MM 2023]](https://arxiv.org/pdf/2211.16247),  [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[AAAI 2025]](./publications/pdf/aaai25.pdf), [[ICASSP 2025]](./publications/pdf/segue.pdf), [[TDSC 2025]](https://arxiv.org/pdf/2310.12214), [[TOSEM 2025]](https://arxiv.org/pdf/2312.10766), [[ICML 2025]](https://openreview.net/forum?id=qLA9WbjGcS), [[ICML 2025]](https://openreview.net/pdf?id=5KszXnnkG5), [[CCS 2025]](https://arxiv.org/pdf/2510.05173)
 
@@ -37,19 +37,8 @@ Others
 - **AI for Science**: [[AI4X 2025]](https://arxiv.org/pdf/2507.07486), [[AI for Science 2025]](https://iopscience.iop.org/article/10.1088/3050-287X/adfee5/pdf)
 
 
-<!-- - **AIGC protection and regulation**: [[AAAI 2022]](publications/pdf/aaai22.pdf), [[NDSS 2024]](https://timbrewatermarking.github.io/paper/NDSS_Detecting_Voice_Cloning_Attacks_via_Timbre_Watermarking.pdf), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf), [[ICML 2024]](https://arxiv.org/pdf/2405.11135), [[ECCV 2024]](https://arxiv.org/pdf/2402.12688), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[S&P 2025]](https://arxiv.org/pdf/2410.10437), [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[ICLR 2025]](https://openreview.net/pdf?id=uzz3qAYy0D)
-
-- **Trustworty AI**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://arxiv.org/pdf/2211.16247), [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465), [[USENIX Security 2025]](), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[AAAI 2025]](./publications/pdf/aaai25.pdf), [[ICASSP 2025]](./publications/pdf/segue.pdf), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf)
-
-- [**IP protection for AI models**](https://github.com/ZJZAC/awesome-deep-model-IP-protection): [[AAAI 2020]](https://arxiv.org/pdf/2002.11088), [[NeurIPS 2020]](https://proceedings.neurips.cc/paper/2020/file/ff1418e8cc993fe8abcfe3ce2003e5c5-Paper.pdf), [[MM 2020]](https://arxiv.org/pdf/2104.04268), [[TPAMI 2021]](https://arxiv.org/pdf/2103.04980), [[TAI 2023]](https://ieeexplore.ieee.org/abstract/document/10152479), [[Springer Book]](https://www.springerprofessional.de/en/protecting-image-processing-networks-via-model-watermarking/25420310), [[TPAMI 2024]](publications/pdf/Robust_Model_Watermarking_for_Image_Processing_Networks_via_Structure_Consistency.pdf)
-
-- **IP protection for different modalities**: [[AAAI 2023]](https://arxiv.org/pdf/2212.02339.pdf), [[AAAI 2023]](publications/pdf/AutoStegaFont.pdf), [[TKDE 2023]](https://ieeexplore.ieee.org/abstract/document/10286426)
-
-- **Affective Computing**: [[MM 2024]](https://arxiv.org/pdf/2408.03499) -->
-
 ⭐️⭐️ *If you are interested in my research topics or have innovative ideas to share, I would love to hear from you! I am always open to external collaborations and exploring new possibilities together! **Feel free to email me anytime!*** 🚀🚀
 
-<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 
@@ -87,6 +76,8 @@ Others
 </style>
 
 <ul id="news-list" style="list-style-type: none; padding-left: 0;">
+<li class="news-item">- <em>2025.11</em>: &nbsp;🎉🎉 One paper is accepted to NDSS 2026. Congrats to Shiqian Zhao!</li>
+<li class="news-item">- <em>2025.11</em>: &nbsp;🎉🎉 I’m honored to be invited as a guest lecturer for the NUS ECE postgraduate course CEG5304: Deep Learning for Digitalization Technologies! The <a href="https://drive.google.com/file/d/1HKkiLBUmrlrMmHmX6dp_AhfMHf1ouyox/view?usp=sharing">lecture video</a> is available.</li>
 <li class="news-item">- <em>2025.11</em>: &nbsp;🎉🎉 One paper is accepted to AAAI 2026. Congrats to Yun Xing!</li>
 <li class="news-item">- <em>2025.11</em>: &nbsp;🎉🎉 One paper is accepted to CIKM 2025. Congrats to Yidan Sun!</li>
 <li class="news-item">- <em>2025.10</em>: &nbsp;🎉🎉 One paper is accepted to <a href="https://agents4science.stanford.edu/">Open Conference of AI Agents for Science 2025</a> as a <a href="https://agents4science.stanford.edu/accepted-papers.html#:~:text=Visible%20Yet%20Unreadable%3A%20A%20Systematic%20Blind%20Spot%20of%20Vision%E2%80%93Language%20Models%20Across%20Writing%20Systems"><span style="color: red;"><strong>Spotlight</strong></span></a> paper. Congrats to my collaborators and myself!</li>
@@ -171,43 +162,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 
-<!-- # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted to USENIX Security 2025. Congrats to Xiang Zhang!
-- *2025.05*: &nbsp;🎉🎉 Two papers are accepted to ACM CCS 2025. Congrats to Peigui Qi and Gelei Deng!
-- *2025.05*: &nbsp;🎉🎉 Two papers are accepted to ICML 2025. Congrats to Yutong Wu and Daiheng Gao!
-- *2025.04*: &nbsp;🎉🎉	I am excited to serve as the Organizer of [the 4th Workshop on Practical Deep Learning (Practical-DL 2025)](https://practical-dl.github.io/)! We warmly welcome your paper submissions, looking forward to your contributions!
-- *2025.04*: &nbsp;🎉🎉 I’m excited to visit MBZUAI as a Visiting Researcher, hosted by Prof. [Nils Lukas](https://nilslukas.github.io/). Looking forward to the collaboration and new insights!
-- *2025.03*: &nbsp;🎉🎉 I’m excited to give a talk at the [IMDA Technical Sharing Session on Multimodal Safety](https://www.imda.gov.sg/activities/activities-catalogue/technical-sharing-session-on-multimodal-safety).
-- *2025.03*: &nbsp;🎉🎉 Two papers are accepted to ICME 2025. Congrats to Zhe Lei and Yanyan Liu!
-- *2025.03*: &nbsp;🎉🎉 One paper is accepted to TOSEM. Congrats to Xiaoyu Zhang!
-- *2025.03*: &nbsp;🎉🎉 One paper is accepted to S&P 2025. Congrats to Xiang Zhang!
-- *2025.03*: &nbsp;🎉🎉 One paper is accepted to TDSC. Congrats to Meng Tong!
-- *2025.02*: &nbsp;🎉🎉 I am appointed as the Innovation Lead at CFAR, A*STAR. Congrats to myself, Fighting!
-- *2025.02*: &nbsp;🎉🎉 Two papers are accepted to CVPR 2025. Congrats to Yue Cao and Xuecheng Wu!
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted to TMM. Congrats to Shuai Li!
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted to ICLR 2025. Congrats to Runyi Hu!
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted to USENIX Security 2025. Congrats to Haolin Wu!
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted to TIFS. Congrats to Shuai Li!
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted to NAACL 2025 (<span style="color: red;"><strong>Oral</strong></span>). Congrats to Meng Tong!
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted to ICASSP 2025. Congrats to Zhiling Zhang!
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted to AAAI 2025 (<span style="color: red;"><strong>Oral</strong></span>). Congrats to Haoxiang Tian!
-- *2024.11*: &nbsp;🎉🎉 One paper is accepted to Information Fusion 2024. Congrats to Linqing Hu!
-- *2024.10*: &nbsp;🎉🎉 GenderCARE is awarded the <span style="color: red;"><strong>Distinguished Artifact Award</strong></span> in CCS 2024. Congrats!
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted to NeurIPS 2024. Congrats to Guanlin Li! 
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted to USENIX Security 2025. Congrats to Junqi Zhang! 
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted to S&P 2025. Congrats to Boheng Li! 
-- *2024.08*: &nbsp;🎉🎉 I join the CFAR, A*STAR as a research scientist. Thanks a lot to Prof. Tianwei Zhang for the support at NTU! 
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted to NDSS 2025. Congrats to Yutong Wu! 
-- *2024.07*: &nbsp;🎉🎉 Two papers are accepted to ACM MM 2024 (One <span style="color: red;"><strong>Oral</strong></span>). Congrats to Yanghao Su and Ruiqi Wang! 
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted to ECCV 2024. Congrats to Runyi Hu! 
-- *2024.05*: &nbsp;🎉🎉 Two papers are accepted to ICML 2024. Congrats to Kui Zhang and Weitao Feng! 
-- *2024.04*: &nbsp;🎉🎉 One paper is accepted to IJCAI 2024. Congrats to Hanlin Gu!
-- *2024.04*: &nbsp;🎉🎉 One paper is accepted to ACM CCS 2024. Congrats to Kunsheng Tang! 
-- *2024.03*: &nbsp;🎉🎉 One paper is accepted to TPAMI. Congrats to myself, Fighting! 
-- *2023.12*: &nbsp;🎉🎉 Three papers are accepted to AAAI 2024. Congrats to Yi Xie, Yihao Huang, and Xiaojian Yuan!
-- *2023.12*: &nbsp;🎉🎉 One paper is accepted to ICASSP 2024. Congrats to Prof. Wenbo Zhou!
-- *2023.11*: &nbsp;🎉🎉 One paper is accepted to NDSS 2024. Congrats to Chang Liu! -->
-
 # 📝 Selected Preprints 
 
 - [A comprehensive survey in llm (-agent) full stack safety: Data, training and deployment](https://arxiv.org/pdf/2504.15585?)
@@ -217,6 +171,17 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2026</div><img src='./publications/img/ndss26.png' alt="sym" width=200></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2508.06837) 
+
+Shiqian Zhao, Chong Wang, Yiming Li, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, Kangjie Chen, **Jie Zhang**, Tianwei Zhang
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='./publications/img/aaai26.png' alt="sym" width=200></div></div>
 <div class='paper-box-text' markdown="1">
 
