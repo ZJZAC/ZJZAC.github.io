@@ -26,7 +26,8 @@ I am currently a Principal Investigator, Innovation Lead, and Research Scientist
 
 My recent research interest mainly focuses on ***How to build Trustworthy AI & Gen-AI***:
 
-- **Vulnerability Evaluation**: [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf),  [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[USENIX Security 2025]](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-junqi), [[NAACL 2025]](https://arxiv.org/pdf/2410.17052), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf), [[TMM 2025]](./publications/pdf/TMM-ls.pdf), [[CVPR 2025]](https://arxiv.org/pdf/2412.00114), [[S&P 2025]](./publications/pdf/camlopa.pdf), [[CCS 2025]](https://arxiv.org/pdf/2405.07496), [[USENIX Security 2025]](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-xiang), [[NeurIPS 2025]](https://arxiv.org/pdf/2506.16690), [[Agent4Science 2025]](https://openreview.net/pdf?id=if6RZty9HK), [[CIKM 2025]](https://dl.acm.org/doi/10.1145/3746252.3760916), [[TIFS 2025]](https://arxiv.org/pdf/2502.20178), [[AAAI 2026]](https://arxiv.org/pdf/2412.08014), [[NDSS 2026]](https://arxiv.org/pdf/2508.06837)
+- **Vulnerability Evaluation**: [[TIP 2022]](https://arxiv.org/abs/2108.02488), [[AAAI 2023]](https://arxiv.org/pdf/2312.05924),  [[MM 2023]](https://dl.acm.org/doi/10.1145/3581783.3612076), [[AAAI 2024]](publications/pdf/Zeroday.pdf), [[AAAI 2024]](https://arxiv.org/pdf/2312.05924), [[AAAI 2024]](https://arxiv.org/pdf/2312.10578.pdf), [[CCS 2024]](publications/pdf/CCS_24_bias.pdf),  [[NeurIPS 2024]](https://arxiv.org/pdf/2405.19360), [[Information Fusion 2024]](./publications/pdf/inffus.pdf), [[USENIX Security 2025]](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-junqi), [[NAACL 2025]](https://arxiv.org/pdf/2410.17052), [[USENIX Security 2025]](./publications/pdf/usenix25-hl.pdf), [[TMM 2025]](./publications/pdf/TMM-ls.pdf), [[CVPR 2025]](https://arxiv.org/pdf/2412.00114), [[S&P 2025]](./publications/pdf/camlopa.pdf), [[CCS 2025]](https://arxiv.org/pdf/2405.07496), [[USENIX Security 2025]](https://www.usenix.org/conference/usenixsecurity25/presentation/zhang-xiang), [[NeurIPS 2025]](https://arxiv.org/pdf/2506.16690), [[Agent4Science 2025]](https://openreview.net/pdf?id=if6RZty9HK), [[CIKM 2025]](https://dl.acm.org/doi/10.1145/3746252.3760916), [[TIFS 2025]](https://arxiv.org/pdf/2502.20178), [[AAAI 2026]](https://arxiv.org/pdf/2412.08014), [[NDSS 2026]](https://arxiv.org/pdf/2508.06837), [[USENIX Security 2026]](https://arxiv.org/pdf/2504.20376), 
+[[TPAMI 2026]](https://www.computer.org/csdl/journal/tp/5555/01/11367280/2dEjEHBRct2) 
 
 - **Proactive Safeguard**: [[AAAI 2021]](publications/pdf/aaai21.pdf), [[MM 2023]](https://arxiv.org/pdf/2211.16247),  [[IJCAI 2024]](https://arxiv.org/pdf/2405.15474), [[ICML 2024]](https://icml.cc/virtual/2024/poster/32891), [[MM 2024]](https://arxiv.org/pdf/2402.17465), [[NDSS 2025]](https://arxiv.org/pdf/2308.10718), [[AAAI 2025]](./publications/pdf/aaai25.pdf), [[ICASSP 2025]](./publications/pdf/segue.pdf), [[TDSC 2025]](https://arxiv.org/pdf/2310.12214), [[TOSEM 2025]](https://arxiv.org/pdf/2312.10766), [[ICML 2025]](https://openreview.net/forum?id=qLA9WbjGcS), [[ICML 2025]](https://openreview.net/pdf?id=5KszXnnkG5), [[CCS 2025]](https://arxiv.org/pdf/2510.05173)
 
@@ -76,6 +77,8 @@ Others
 </style>
 
 <ul id="news-list" style="list-style-type: none; padding-left: 0;">
+<li class="news-item">- <em>2026.01</em>: &nbsp;🎉🎉 One paper is accepted to TPAMI. Congrats to Chang Liu!</li>
+<li class="news-item">- <em>2026.01</em>: &nbsp;🎉🎉 One paper is accepted to USENIX Security 2026. Congrats to Shiqian Zhao!</li>
 <li class="news-item">- <em>2026.01</em>: &nbsp;🎉🎉 Our project on AI-assisted animation copyright and governance is awarded funding by <a href="https://aisingapore.org/research/joint-grant-call/">AI Singapore (AI Research – Governance Joint Grant Call)</a>, with me serving as PI. Congarts to my team and myself! </li>
 <li class="news-item">- <em>2025.12</em>: &nbsp;🎉🎉 One paper is accepted to Information Science. Congrats to Xiaoshuai Wu!</li>
 <li class="news-item">- <em>2025.12</em>: &nbsp;🎉🎉 One paper is accepted to TIFS. Congrats to Zhaoxuan Wang!</li>
@@ -174,12 +177,36 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='./publications/img/tpami26.png' alt="sym" width=200></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring Security Vulnerabilities in Multilingual Speech Translation Systems via Deceptive Inputs](https://www.computer.org/csdl/journal/tp/5555/01/11367280/2dEjEHBRct2) 
+
+Chang Liu, Haolin Wu, Xi Yang, Kui Zhang, Cong Wu, Weiming Zhang, Nenghai Yu, Tianwei Zhang, Qing Guo, **Jie Zhang** [*Corresponding Author*]
+
+[[**Project Page**]](https://adv-st.github.io/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">USENIX Security 2026</div><img src='./publications/img/inception.png' alt="sym" width=200></div></div>
+<div class='paper-box-text' markdown="1">
+
+[When Memory Becomes a Vulnerability: Towards Multi-turn Jailbreak Attacks against Text-to-Image Generation Systems](https://arxiv.org/pdf/2504.20376) 
+
+Shiqian Zhao, Jiayang Liu, Yiming Li, Runyi Hu, Xiaojun Jia, Wenshu Fan, Xinfeng Li, **Jie Zhang**, Wei Dong, Tianwei Zhang, Luu Anh Tuan
+
+<!-- [[**Code**]]() -->
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2026</div><img src='./publications/img/ndss26.png' alt="sym" width=200></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Effective Prompt Stealing Attack against Text-to-Image Diffusion Models](https://arxiv.org/pdf/2508.06837) 
 
-Shiqian Zhao, Chong Wang, Yiming Li, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, Kangjie Chen, **Jie Zhang**, Tianwei Zhang
+Shiqian Zhao, Chong Wang, Yiming Li, Yihao Huang, Wenjie Qu, Siew-Kei Lam, Yi Xie, Kangjie Chen, **Jie Zhang** [*Corresponding Author*], Tianwei Zhang
 
 </div>
 </div>
