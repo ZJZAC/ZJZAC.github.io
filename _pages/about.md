@@ -192,8 +192,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 # 📝 Publications 
 
-[**\[Full Publication List\]**](./publications/)
-
 - <span id="pub-intenttool"></span>Yutong Zhang, Jianshuo Dong, Peng Xu, Long Wang, **Jie Zhang**, Tianwei Zhang, Xiaoping Zhang, Han Qiu, **INTENT-AS-A-TOOL Makes it Easy to Track Agentic Misalignment**, Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026
 
 - <span id="pub-personaswitch"></span>Yanghao Su, Wenbo Zhou, Tianwei Zhang, Han Qiu, Nenghai Yu, Weiming Zhang, **Jie Zhang**, **The Persona-Switch Backdoor: From Payload Retrieval to Trigger-Gated Persona-State Selection**, Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026
