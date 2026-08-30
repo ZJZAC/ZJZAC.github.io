@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jie Zhang"
-description              : "Research Scientist"
+description              : "CEO & Principal Researcher"
 repository               : "ZJZAC/ZJZAC.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jie Zhang (张杰)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "CFAR, A*STAR"
-  location         : "Singapore"
+  bio              : "SiliconProspect AI"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=7YkR3CoAAAAJ"
