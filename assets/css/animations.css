@@ -1,0 +1,116 @@
+/* ============================================================
+   Dynamic animations for the homepage
+   ============================================================ */
+
+/* ---------- 1. Scroll reveal (fade-in-up) ---------- */
+.anim-reveal {
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.6s cubic-bezier(0.22, 0.61, 0.36, 1),
+              transform 0.6s cubic-bezier(0.22, 0.61, 0.36, 1);
+  will-change: opacity, transform;
+}
+.anim-reveal.anim-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Respect users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .anim-reveal {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+}
+
+/* ---------- 2. Publication list item hover ---------- */
+.page__content ul li,
+.page__content ol li {
+  border-radius: 6px;
+  transition: background-color 0.25s ease,
+              box-shadow 0.25s ease,
+              transform 0.25s ease;
+}
+.page__content ul li:hover,
+.page__content ol li:hover {
+  background-color: rgba(70, 130, 180, 0.07);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  transform: translateX(4px);
+}
+
+/* ---------- 3. Sidebar avatar hover ---------- */
+.author__avatar img {
+  transition: transform 0.35s cubic-bezier(0.22, 0.61, 0.36, 1),
+              box-shadow 0.35s ease;
+}
+.author__avatar:hover img {
+  transform: scale(1.05);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.18);
+}
+
+/* ---------- 4. Animated gradient on the page title ---------- */
+.page__title,
+h1.page__title {
+  background: linear-gradient(90deg, #224b8f, #3a7bd5, #00b4a0, #224b8f);
+  background-size: 300% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  animation: titleShimmer 8s ease-in-out infinite;
+}
+@keyframes titleShimmer {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* ---------- 5. Section heading accent bar ---------- */
+.page__content h2 {
+  position: relative;
+  padding-bottom: 6px;
+}
+.page__content h2::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 3px;
+  width: 48px;
+  border-radius: 2px;
+  background: linear-gradient(90deg, #3a7bd5, #00b4a0);
+  transition: width 0.4s ease;
+}
+.page__content h2:hover::after {
+  width: 120px;
+}
+
+/* ---------- 6. Smooth in-page anchor scrolling ---------- */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ---------- 7. Animated underline for content links ---------- */
+.page__content a:not(.btn) {
+  text-decoration: none;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-size: 0% 1px;
+  background-repeat: no-repeat;
+  background-position: left 95%;
+  transition: background-size 0.3s ease;
+  padding-bottom: 1px;
+}
+.page__content a:not(.btn):hover {
+  background-size: 100% 1px;
+}
+
+/* ---------- 8. News highlight flash for newest entry ---------- */
+@keyframes newsPulse {
+  0%   { box-shadow: 0 0 0 0 rgba(58, 123, 213, 0.35); }
+  70%  { box-shadow: 0 0 0 8px rgba(58, 123, 213, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(58, 123, 213, 0); }
+}
+.page__content ul li:first-child {
+  animation: newsPulse 2.4s ease-out 1;
+}
