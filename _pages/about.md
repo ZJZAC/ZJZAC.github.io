@@ -22,21 +22,6 @@ redirect_from:
   </div>
 </div>
 
-<div class="stats-wall">
-  <div class="stat-card">
-    <div class="stat-number" data-count="80" data-suffix="+">0</div>
-    <div class="stat-label">📄 Publications</div>
-  </div>
-  <div class="stat-card">
-    <div class="stat-number"><span id="total_cit">—</span></div>
-    <div class="stat-label">📊 Citations</div>
-  </div>
-  <div class="stat-card">
-    <div class="stat-number" data-count="5" data-suffix="">0</div>
-    <div class="stat-label">🎖️ Honors & Awards</div>
-  </div>
-</div>
-
 <span class='anchor' id='about-me'></span>
 
 I am currently the CEO and Principal Researcher at **SiliconProspect AI (硅基守望)**, an AI startup I co-founded, dedicated to ***Understanding AI, Trusting AI, and Embracing AI***. Before that, I was a Principal Investigator, Innovation Lead, and Research Scientist at A*STAR Centre for Frontier AI Research ([CFAR](https://www.a-star.edu.sg/cfar)), working with [**Prof. Ivor Tsang**](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang), and a Research Fellow at Nanyang Technological University, working with [**Prof. Tianwei Zhang**](https://personal.ntu.edu.sg/tianwei.zhang/) and [**Prof. Yang Liu**](https://personal.ntu.edu.sg/yangliu/). Besides, I worked with [**Prof. Florian Kerschbaum**](https://cs.uwaterloo.ca/~fkerschb/) (from University of Waterloo).  I received my Ph.D. degree with honors in School of Cyber Science and Technology from University of Science and Technology of China (USTC) in 2022, advised by [**Prof. Nenghai Yu**](https://scholar.google.com/citations?user=7620QAMAAAAJ&hl=zh-CN), [**Prof. Weiming Zhang**](https://scholar.google.com/citations?user=eTCfl6cAAAAJ&hl=zh-CN), and **Prof. Huamin Feng**. I also very luckily collaborated closely with [**Prof. Qing Guo**](https://tsingqguo.github.io/) (at Nankai University), [**Dr. Dongdong Chen**](https://www.dongdongchen.bid/) (at Microsoft GenAI) and [**Prof. Jing Liao**](https://www.cityu.edu.hk/stfprofile/jingliao.htm) (at City University of Hong Kong). 

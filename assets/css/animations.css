@@ -161,45 +161,6 @@ html {
   .hero-cursor { animation: none; }
 }
 
-/* ---------- Stats wall ---------- */
-.stats-wall {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  justify-content: center;
-  margin: 0 0 26px 0;
-}
-.stat-card {
-  flex: 1 1 140px;
-  max-width: 200px;
-  text-align: center;
-  padding: 16px 10px;
-  border-radius: 12px;
-  background: #fff;
-  border: 1px solid rgba(58, 123, 213, 0.18);
-  box-shadow: 0 2px 10px rgba(34, 75, 143, 0.08);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-.stat-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 22px rgba(34, 75, 143, 0.16);
-}
-.stat-number {
-  font-size: 1.7em;
-  font-weight: 700;
-  background: linear-gradient(90deg, #224b8f, #00b4a0);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  color: transparent;
-  line-height: 1.2;
-}
-.stat-label {
-  font-size: 0.85em;
-  color: #666;
-  margin-top: 4px;
-}
 @media (max-width: 600px) {
-  .stat-card { flex: 1 1 40%; }
   .hero-title { font-size: 1.5em; }
 }
