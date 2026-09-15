@@ -114,3 +114,107 @@ html {
 .page__content ul li:first-child {
   animation: newsPulse 2.4s ease-out 1;
 }
+
+/* ============================================================
+   Hero banner, typing effect, stats wall, particle background
+   ============================================================ */
+
+/* ---------- Particle canvas ---------- */
+#particle-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* Keep page content above the canvas */
+.page, .sidebar, .masthead, .page__footer {
+  position: relative;
+  z-index: 1;
+}
+
+/* ---------- Hero banner ---------- */
+.hero-banner {
+  text-align: center;
+  padding: 28px 16px 20px;
+  margin-bottom: 18px;
+  border-radius: 14px;
+  background: linear-gradient(135deg, rgba(58, 123, 213, 0.08), rgba(0, 180, 160, 0.08));
+  border: 1px solid rgba(58, 123, 213, 0.15);
+}
+.hero-title {
+  font-size: 1.9em;
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: #222;
+}
+.hero-name {
+  background: linear-gradient(90deg, #224b8f, #3a7bd5, #00b4a0);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+.hero-subtitle {
+  font-size: 1.15em;
+  color: #3a7bd5;
+  min-height: 1.6em;
+  font-weight: 500;
+}
+.hero-cursor {
+  display: inline-block;
+  margin-left: 2px;
+  color: #3a7bd5;
+  animation: cursorBlink 0.9s step-end infinite;
+}
+@keyframes cursorBlink {
+  0%, 100% { opacity: 1; }
+  50%      { opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero-cursor { animation: none; }
+}
+
+/* ---------- Stats wall ---------- */
+.stats-wall {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  margin: 0 0 26px 0;
+}
+.stat-card {
+  flex: 1 1 140px;
+  max-width: 200px;
+  text-align: center;
+  padding: 16px 10px;
+  border-radius: 12px;
+  background: #fff;
+  border: 1px solid rgba(58, 123, 213, 0.18);
+  box-shadow: 0 2px 10px rgba(34, 75, 143, 0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.stat-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 22px rgba(34, 75, 143, 0.16);
+}
+.stat-number {
+  font-size: 1.7em;
+  font-weight: 700;
+  background: linear-gradient(90deg, #224b8f, #00b4a0);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  line-height: 1.2;
+}
+.stat-label {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 4px;
+}
+@media (max-width: 600px) {
+  .stat-card { flex: 1 1 40%; }
+  .hero-title { font-size: 1.5em; }
+}
