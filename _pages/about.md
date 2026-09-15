@@ -24,7 +24,7 @@ redirect_from:
 
 <div class="stats-wall">
   <div class="stat-card">
-    <div class="stat-number" data-count="77" data-suffix="+">0</div>
+    <div class="stat-number" data-count="80" data-suffix="+">0</div>
     <div class="stat-label">📄 Publications</div>
   </div>
   <div class="stat-card">
@@ -32,12 +32,8 @@ redirect_from:
     <div class="stat-label">📊 Citations</div>
   </div>
   <div class="stat-card">
-    <div class="stat-number" data-count="6" data-suffix="+">0</div>
+    <div class="stat-number" data-count="5" data-suffix="">0</div>
     <div class="stat-label">🎖️ Honors & Awards</div>
-  </div>
-  <div class="stat-card">
-    <div class="stat-number" data-count="1" data-suffix="">0</div>
-    <div class="stat-label">🏆 ECCV 2026 Champion</div>
   </div>
 </div>
 
