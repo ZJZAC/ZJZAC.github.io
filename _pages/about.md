@@ -28,7 +28,7 @@ redirect_from:
     <div class="stat-label">📄 Publications</div>
   </div>
   <div class="stat-card">
-    <div class="stat-number"><span id="total_cit">—</span>+</div>
+    <div class="stat-number"><span id="total_cit">—</span></div>
     <div class="stat-label">📊 Citations</div>
   </div>
   <div class="stat-card">
