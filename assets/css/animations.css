@@ -119,21 +119,6 @@ html {
    Hero banner, typing effect, stats wall, particle background
    ============================================================ */
 
-/* ---------- Particle canvas ---------- */
-#particle-bg {
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 0;
-  pointer-events: none;
-}
-
-/* Keep page content above the canvas */
-.page, .sidebar, .masthead, .page__footer {
-  position: relative;
-  z-index: 1;
-}
-
 /* ---------- Hero banner ---------- */
 .hero-banner {
   text-align: center;
