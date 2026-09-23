@@ -88,6 +88,7 @@ Others
 </style>
 
 <ul id="news-list" style="list-style-type: none; padding-left: 0;">
+<li class="news-item">- <em>2026.09</em>: &nbsp;🎉🎉 One paper is accepted to TMLR. Congrats to Lianyu Hu!</li>
 <li class="news-item">- <em>2026.08</em>: &nbsp;🏆 Our team KVeil won the 🏅 <span style="color: red;"><strong>Champion (1st Place)</strong></span> in both the preliminary and final phases of the <a href="https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit">LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization @ ECCV 2026</a>! Our technical report and paper will be available soon.</li>
 <li class="news-item">- <em>2026.08</em>: &nbsp;🎉🎉 Three papers are accepted to EMNLP 2026 (Main Conference). Congrats to Qingjie Zhang, Yanghao Su, and Yutong Zhang!</li>
 <li class="news-item">- <em>2026.08</em>: &nbsp;🎉🎉 One paper is accepted to TIFS. Congrats to Fengqi Cui!</li>
@@ -198,6 +199,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 # 📝 Publications 
+
+- <span id="pub-memoryvln"></span>Lianyu Hu, Hongwei Zeng, Xiaoyu Ma, Minghui Xue, Zonghao Ying, Zhaolu Kang, Qing Guo, **Jie Zhang**, Yang Liu, **MemoryVLN: Memory-Augmented Vision-Language Navigation**, Transactions on Machine Learning Research (TMLR), 2026
 
 - <span id="pub-intenttool"></span>Yutong Zhang, Jianshuo Dong, Peng Xu, Long Wang, **Jie Zhang**, Tianwei Zhang, Xiaoping Zhang, Han Qiu, **INTENT-AS-A-TOOL Makes it Easy to Track Agentic Misalignment**, Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026
 

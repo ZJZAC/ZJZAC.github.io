@@ -19,6 +19,11 @@ author_profile: true
 ## 2026
 
 <div class="pub-item">
+<span class="venue">[TMLR]</span> <span class="title">MemoryVLN: Memory-Augmented Vision-Language Navigation</span><br>
+<span class="authors">Lianyu Hu, Hongwei Zeng, Xiaoyu Ma, Minghui Xue, Zonghao Ying, Zhaolu Kang, Qing Guo, <strong>Jie Zhang</strong>, Yang Liu</span>
+</div>
+
+<div class="pub-item">
 <span class="venue">[EMNLP]</span> <span class="title">INTENT-AS-A-TOOL Makes it Easy to Track Agentic Misalignment</span><br>
 <span class="authors">Yutong Zhang, Jianshuo Dong, Peng Xu, Long Wang, <strong>Jie Zhang</strong>, Tianwei Zhang, Xiaoping Zhang, Han Qiu</span>
 </div>
