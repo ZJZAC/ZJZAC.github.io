@@ -4,3 +4,5 @@ push.sh
 # Nutstore sync artifacts
 *.nssyncsc
 .jekyll-cache/
+TH-CPL.pdf
+screenshot.py
