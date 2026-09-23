@@ -164,3 +164,53 @@ html {
 @media (max-width: 600px) {
   .hero-title { font-size: 1.5em; }
 }
+
+/* ============================================================
+   Spotlight cursor + letter reveal
+   ============================================================ */
+
+/* ---------- Spotlight that follows the mouse ---------- */
+#spotlight {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 999;
+  background: radial-gradient(340px circle at var(--mx, -500px) var(--my, -500px),
+                              rgba(255, 196, 66, 0.075), transparent 70%);
+  transition: opacity 0.4s ease;
+}
+
+/* ---------- Letter-by-letter reveal of the hero name ---------- */
+.hero-name .ltr {
+  display: inline-block;
+  opacity: 0;
+  filter: blur(8px);
+  transform: translateY(14px);
+  animation: ltrReveal 0.7s cubic-bezier(0.22, 0.61, 0.36, 1) forwards;
+  animation-delay: var(--d, 0s);
+  /* gradient must live on each letter: background-clip:text on the
+     parent does not paint through inline-block children */
+  background: linear-gradient(90deg, #224b8f, #3a7bd5, #00b4a0);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+@keyframes ltrReveal {
+  to {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateY(0);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .hero-name .ltr {
+    animation: none;
+    opacity: 1;
+    filter: none;
+    transform: none;
+  }
+}

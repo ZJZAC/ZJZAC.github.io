@@ -90,9 +90,49 @@
     nums.forEach(function (el) { observer.observe(el); });
   }
 
+  /* ---------- Spotlight cursor ---------- */
+  function setupSpotlight() {
+    if (reduced) return;
+    var el = document.createElement("div");
+    el.id = "spotlight";
+    document.body.appendChild(el);
+    var raf = null;
+    window.addEventListener("mousemove", function (e) {
+      if (raf) return;
+      raf = requestAnimationFrame(function () {
+        el.style.setProperty("--mx", e.clientX + "px");
+        el.style.setProperty("--my", e.clientY + "px");
+        raf = null;
+      });
+    });
+    document.documentElement.addEventListener("mouseleave", function () {
+      el.style.setProperty("--mx", "-500px");
+      el.style.setProperty("--my", "-500px");
+    });
+  }
+
+  /* ---------- Letter-by-letter reveal of hero name ---------- */
+  function setupLetterReveal() {
+    var nameEl = document.querySelector(".hero-name");
+    if (!nameEl || reduced) return;
+    var text = nameEl.textContent;
+    nameEl.textContent = "";
+    var i = 0;
+    Array.from(text).forEach(function (ch) {
+      var span = document.createElement("span");
+      span.className = "ltr";
+      span.textContent = ch === " " ? " " : ch;
+      span.style.setProperty("--d", (0.15 + i * 0.055).toFixed(2) + "s");
+      nameEl.appendChild(span);
+      i++;
+    });
+  }
+
   function init() {
     setupTyping();
     setupCounters();
+    setupSpotlight();
+    setupLetterReveal();
   }
 
   if (document.readyState === "loading") {
