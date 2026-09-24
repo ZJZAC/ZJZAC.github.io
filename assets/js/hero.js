@@ -121,7 +121,7 @@
     Array.from(text).forEach(function (ch) {
       var span = document.createElement("span");
       span.className = "ltr";
-      span.textContent = ch === " " ? " " : ch;
+      span.textContent = ch === " " ? " " : ch;
       span.style.setProperty("--d", (0.15 + i * 0.055).toFixed(2) + "s");
       nameEl.appendChild(span);
       i++;
