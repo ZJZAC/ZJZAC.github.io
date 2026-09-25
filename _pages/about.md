@@ -37,11 +37,11 @@ I am currently the CEO and Principal Researcher at **SiliconProspect AI (硅基�
 My recent research interest mainly focuses on ***How to build Trustworthy AI & Gen-AI***:
 
 - **Vulnerability Evaluation**: [[TIP 2022]](#pub-poison-ink), [[AAAI 2023]](#pub-plg-mia),  [[MM 2023]](#pub-protego), [[AAAI 2024]](#pub-zeroday), [[AAAI 2024]](#pub-dfhl), [[AAAI 2024]](#pub-same), [[CCS 2024]](#pub-gendercare),  [[NeurIPS 2024]](#pub-art), [[Information Fusion 2024]](#pub-inffus), [[USENIX Security 2025]](#pub-ghost), [[NAACL 2025]](#pub-sanitization), [[USENIX Security 2025]](#pub-translators), [[TMM 2025]](#pub-deephash), [[CVPR 2025]](#pub-scenetap), [[S&P 2025]](#pub-camlopa), [[CCS 2025]](#pub-oedipus), [[USENIX Security 2025]](#pub-diffloc), [[NeurIPS 2025]](#pub-depthvanish), [[Agent4Science 2025]](#pub-blindspot), [[CIKM 2025]](#pub-dpgen), [[TIFS 2025]](#pub-ssd), [[AAAI 2026]](#pub-magic), [[NDSS 2026]](#pub-promptstealing), [[USENIX Security 2026]](#pub-memory), 
-[[TPAMI 2026]](#pub-mst), [[ACL 2026]](#pub-corba), [[ICML 2026]](#pub-searchwrong), [[ICML 2026]](#pub-objvanish), [[ICML 2026]](#pub-sdsf), [[USENIX Security 2026]](#pub-glitch), [[CCS 2026]](#pub-tokenbuncher), [[MM 2026]](#pub-beyondretrieval), [[EMNLP 2026]](#pub-intenttool), [[EMNLP 2026]](#pub-personaswitch), [[EMNLP 2026]](#pub-bpeaudit) 
+[[TPAMI 2026]](#pub-mst), [[ACL 2026]](#pub-corba), [[ICML 2026]](#pub-searchwrong), [[ICML 2026]](#pub-objvanish), [[ICML 2026]](#pub-sdsf), [[USENIX Security 2026]](#pub-glitch), [[CCS 2026]](#pub-tokenbuncher), [[MM 2026]](#pub-beyondretrieval), [[EMNLP 2026]](#pub-intenttool), [[EMNLP 2026]](#pub-personaswitch), [[EMNLP 2026]](#pub-bpeaudit), [[NeurIPS 2026]](#pub-deceiveafc), [[NeurIPS 2026]](#pub-guiguardbench), [[NeurIPS 2026]](#pub-synbench) 
 
-- **Proactive Safeguard**: [[AAAI 2021]](#pub-initiative), [[MM 2023]](#pub-ada3diff),  [[IJCAI 2024]](#pub-fedau), [[ICML 2024]](#pub-facialprivacy), [[MM 2024]](#pub-modelxray), [[NDSS 2025]](#pub-themis), [[AAAI 2025]](#pub-evolutionary), [[ICASSP 2025]](#pub-segue), [[TDSC 2025]](#pub-inferdpt), [[TOSEM 2025]](#pub-jailguard), [[ICML 2025]](#pub-eraseanything), [[ICML 2025]](#pub-cowpox), [[CCS 2025]](#pub-safeguider)
+- **Proactive Safeguard**: [[AAAI 2021]](#pub-initiative), [[MM 2023]](#pub-ada3diff),  [[IJCAI 2024]](#pub-fedau), [[ICML 2024]](#pub-facialprivacy), [[MM 2024]](#pub-modelxray), [[NDSS 2025]](#pub-themis), [[AAAI 2025]](#pub-evolutionary), [[ICASSP 2025]](#pub-segue), [[TDSC 2025]](#pub-inferdpt), [[TOSEM 2025]](#pub-jailguard), [[ICML 2025]](#pub-eraseanything), [[ICML 2025]](#pub-cowpox), [[CCS 2025]](#pub-safeguider), [[NeurIPS 2026]](#pub-sparsejunction)
 
-- **Post-hoc Forensic**: [[AAAI 2020]](#pub-mwipn), [[NeurIPS 2020]](#pub-passport), [[MM 2020]](#pub-reversible), [[TPAMI 2021]](#pub-deepip), [[AAAI 2022]](#pub-provenance),  [[TAI 2023]](#pub-mac), [[Springer Book]](#pub-book), [[AAAI 2023]](#pub-dear), [[AAAI 2023]](#pub-autostegafont), [[TKDE 2023]](#pub-dbwm), [[TPAMI 2024]](#pub-scwm), [[NDSS 2024]](#pub-timbre), [[ICML 2024]](#pub-aqualora), [[ECCV 2024]](#pub-robustwide), [[S&P 2025]](#pub-siren), [[TIFS 2025]](#pub-knowledgeinjection), [[ICLR 2025]](#pub-videoshield), [[ICME 2025]](#pub-wmupdating), [[ICME 2025]](#pub-aparecium), [[TDSC 2025]](#pub-glyph), [[TPAMI 2025]](#pub-facetracer), [[NeurIPS 2025]](#pub-maskwm), [[Information Science 2025]](#pub-deepfakeforensics) 
+- **Post-hoc Forensic**: [[AAAI 2020]](#pub-mwipn), [[NeurIPS 2020]](#pub-passport), [[MM 2020]](#pub-reversible), [[TPAMI 2021]](#pub-deepip), [[AAAI 2022]](#pub-provenance),  [[TAI 2023]](#pub-mac), [[Springer Book]](#pub-book), [[AAAI 2023]](#pub-dear), [[AAAI 2023]](#pub-autostegafont), [[TKDE 2023]](#pub-dbwm), [[TPAMI 2024]](#pub-scwm), [[NDSS 2024]](#pub-timbre), [[ICML 2024]](#pub-aqualora), [[ECCV 2024]](#pub-robustwide), [[S&P 2025]](#pub-siren), [[TIFS 2025]](#pub-knowledgeinjection), [[ICLR 2025]](#pub-videoshield), [[ICME 2025]](#pub-wmupdating), [[ICME 2025]](#pub-aparecium), [[TDSC 2025]](#pub-glyph), [[TPAMI 2025]](#pub-facetracer), [[NeurIPS 2025]](#pub-maskwm), [[Information Science 2025]](#pub-deepfakeforensics), [[NeurIPS 2026]](#pub-trace), [[NeurIPS 2026]](#pub-monitoringprimitive) 
 
 Others
 - **Affective Computing**: [[MM 2024]](#pub-facialpulse), [[CVPR 2025]](#pub-avfmae), [[MM 2025]](#pub-heterogeneity), [[TIFS 2026]](#pub-trustdfer)
@@ -88,6 +88,7 @@ Others
 </style>
 
 <ul id="news-list" style="list-style-type: none; padding-left: 0;">
+<li class="news-item">- <em>2026.09</em>: &nbsp;🎉🎉 Six papers are accepted to NeurIPS 2026 (3 in Main Track with one <span style="color: red;"><strong>Spotlight</strong></span>, 1 in Position Paper Track, and 2 in Evaluations & Datasets Track). Congrats to Runyi Hu, Haoran Ou, Jiale Meng, Toluwani Aremu, Yanxi Wang, and Yidan Sun!</li>
 <li class="news-item">- <em>2026.09</em>: &nbsp;🎉🎉 One paper is accepted to TMLR. Congrats to Lianyu Hu!</li>
 <li class="news-item">- <em>2026.08</em>: &nbsp;🏆 Our team KVeil won the 🏅 <span style="color: red;"><strong>Champion (1st Place)</strong></span> in both the preliminary and final phases of the <a href="https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit">LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization @ ECCV 2026</a>! Our technical report and paper will be available soon.</li>
 <li class="news-item">- <em>2026.08</em>: &nbsp;🎉🎉 Three papers are accepted to EMNLP 2026 (Main Conference). Congrats to Qingjie Zhang, Yanghao Su, and Yutong Zhang!</li>
@@ -199,6 +200,18 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 # 📝 Publications 
+
+- <span id="pub-sparsejunction"></span>Runyi Hu, **Jie Zhang**, Shiqian Zhao, Jiale Meng, Jiwei Li, Jason Zeng, Ming Wu, Michael Heinrich, Yonggang Wen, Tianwei Zhang, **Inference-time Alignment via Sparse Junction Steering**, Annual Conference on Neural Information Processing Systems (NeurIPS), <span style="color: red;"><strong>Spotlight</strong></span>, 2026
+
+- <span id="pub-deceiveafc"></span>Haoran Ou, Kangjie Chen, Gelei Deng, Hangcheng Liu, **Jie Zhang**, Tianwei Zhang, Kwok-Yan Lam, **DECEIVE-AFC: Adversarial Claim Attacks against Search-Enabled LLM-based Fact-Checking Systems**, Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
+
+- <span id="pub-trace"></span>Jiale Meng, **Jie Zhang**, Runyi Hu, Zhe-Ming Lu, Tianwei Zhang, Yiming Li, **TRACE: Structure-Aware Character Encoding for Robust and Generalizable Document Watermarking**, Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
+
+- <span id="pub-monitoringprimitive"></span>Toluwani Aremu, **Jie Zhang**, Nils Lukas, **Watermarking Should Be Treated as a Monitoring Primitive**, NeurIPS Position Paper Track, 2026
+
+- <span id="pub-guiguardbench"></span>Yanxi Wang, Zhiling Zhang, Wenbo Zhou, Weiming Zhang, **Jie Zhang**, Qiannan Zhu, Yu Shi, Shuxin Zheng, Jiyan He, **GUIGuard-Bench: Toward a General Evaluation for Privacy-Preserving GUI Agents**, NeurIPS Evaluations and Datasets Track, 2026
+
+- <span id="pub-synbench"></span>Yidan Sun, Viktor Schlegel, Srinivasan Nandakumar, Iqra Zahid, Yuping Wu, Yulong Wu, Hao Li, **Jie Zhang**, Warren Del-Pinto, Goran Nenadic, Siew Kei Lam, Anil Anthony Bharath, **SynBench: A Benchmark for Differentially Private Text Generation**, NeurIPS Evaluations and Datasets Track, 2026
 
 - <span id="pub-memoryvln"></span>Lianyu Hu, Hongwei Zeng, Xiaoyu Ma, Minghui Xue, Zonghao Ying, Zhaolu Kang, Qing Guo, **Jie Zhang**, Yang Liu, **MemoryVLN: Memory-Augmented Vision-Language Navigation**, Transactions on Machine Learning Research (TMLR), 2026
 

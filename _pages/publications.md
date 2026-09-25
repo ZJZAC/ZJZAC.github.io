@@ -19,6 +19,36 @@ author_profile: true
 ## 2026
 
 <div class="pub-item">
+<span class="venue">[NeurIPS]</span> <span class="title">Inference-time Alignment via Sparse Junction Steering</span> <span class="note">Spotlight</span><br>
+<span class="authors">Runyi Hu, <strong>Jie Zhang</strong>, Shiqian Zhao, Jiale Meng, Jiwei Li, Jason Zeng, Ming Wu, Michael Heinrich, Yonggang Wen, Tianwei Zhang</span>
+</div>
+
+<div class="pub-item">
+<span class="venue">[NeurIPS]</span> <span class="title">DECEIVE-AFC: Adversarial Claim Attacks against Search-Enabled LLM-based Fact-Checking Systems</span><br>
+<span class="authors">Haoran Ou, Kangjie Chen, Gelei Deng, Hangcheng Liu, <strong>Jie Zhang</strong>, Tianwei Zhang, Kwok-Yan Lam</span>
+</div>
+
+<div class="pub-item">
+<span class="venue">[NeurIPS]</span> <span class="title">TRACE: Structure-Aware Character Encoding for Robust and Generalizable Document Watermarking</span><br>
+<span class="authors">Jiale Meng, <strong>Jie Zhang</strong>, Runyi Hu, Zhe-Ming Lu, Tianwei Zhang, Yiming Li</span>
+</div>
+
+<div class="pub-item">
+<span class="venue">[NeurIPS Position Paper]</span> <span class="title">Watermarking Should Be Treated as a Monitoring Primitive</span><br>
+<span class="authors">Toluwani Aremu, <strong>Jie Zhang</strong>, Nils Lukas</span>
+</div>
+
+<div class="pub-item">
+<span class="venue">[NeurIPS E&D Track]</span> <span class="title">GUIGuard-Bench: Toward a General Evaluation for Privacy-Preserving GUI Agents</span><br>
+<span class="authors">Yanxi Wang, Zhiling Zhang, Wenbo Zhou, Weiming Zhang, <strong>Jie Zhang</strong>, Qiannan Zhu, Yu Shi, Shuxin Zheng, Jiyan He</span>
+</div>
+
+<div class="pub-item">
+<span class="venue">[NeurIPS E&D Track]</span> <span class="title">SynBench: A Benchmark for Differentially Private Text Generation</span><br>
+<span class="authors">Yidan Sun, Viktor Schlegel, Srinivasan Nandakumar, Iqra Zahid, Yuping Wu, Yulong Wu, Hao Li, <strong>Jie Zhang</strong>, Warren Del-Pinto, Goran Nenadic, Siew Kei Lam, Anil Anthony Bharath</span>
+</div>
+
+<div class="pub-item">
 <span class="venue">[TMLR]</span> <span class="title">MemoryVLN: Memory-Augmented Vision-Language Navigation</span><br>
 <span class="authors">Lianyu Hu, Hongwei Zeng, Xiaoyu Ma, Minghui Xue, Zonghao Ying, Zhaolu Kang, Qing Guo, <strong>Jie Zhang</strong>, Yang Liu</span>
 </div>
