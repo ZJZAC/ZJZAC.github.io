@@ -18,7 +18,7 @@ redirect_from:
 <div class="hero-banner">
   <div class="hero-title">Hi, I'm <span class="hero-name">Jie Zhang (张杰)</span></div>
   <div class="hero-subtitle">
-    <span id="hero-typing" data-phrases='["CEO @ SiliconProspect AI (硅基守望)", "Trustworthy AI Researcher", "85+ Publications @ Top Venues", "Spotlight @ NeurIPS 2026", "Champion @ ECCV 2026 LifeGenIP Challenge", "Distinguished Artifact Award @ CCS 2024", "Spotlight @ 1st Agent4Science 2025"]'></span><span class="hero-cursor">|</span>
+    <span id="hero-typing" data-phrases='["CEO @ SiliconProspect AI (硅基守望)", "Trustworthy AI Researcher", "85+ Publications @ Top Venues", "Nature Biomedical Engineering 2026", "Spotlight @ NeurIPS 2026", "Champion @ ECCV 2026 LifeGenIP Challenge", "Distinguished Artifact Award @ CCS 2024", "Spotlight @ 1st Agent4Science 2025"]'></span><span class="hero-cursor">|</span>
   </div>
 </div>
 
