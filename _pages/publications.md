@@ -64,7 +64,7 @@ author_profile: true
 </div>
 
 <div class="pub-item">
-<span class="venue">[EMNLP]</span> <span class="title">The Persona-Switch Backdoor: From Payload Retrieval to Trigger-Gated Persona-State Selection</span><br>
+<span class="venue">[EMNLP]</span> <span class="title">The Persona-Switch Backdoor: From Payload Retrieval to Trigger-Gated Persona-State Selection</span> <span class="note">Oral</span><br>
 <span class="authors">Yanghao Su, Wenbo Zhou, Tianwei Zhang, Han Qiu, Nenghai Yu, Weiming Zhang, <strong>Jie Zhang</strong></span>
 </div>
 

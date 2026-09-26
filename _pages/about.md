@@ -92,7 +92,7 @@ Others
 <li class="news-item">- <em>2026.09</em>: &nbsp;🎉🎉 Six papers are accepted to NeurIPS 2026 (3 in Main Track with one <span style="color: red;"><strong>Spotlight</strong></span>, 1 in Position Paper Track, and 2 in Evaluations & Datasets Track). Congrats to Runyi Hu, Haoran Ou, Jiale Meng, Toluwani Aremu, Yanxi Wang, and Yidan Sun!</li>
 <li class="news-item">- <em>2026.09</em>: &nbsp;🎉🎉 One paper is accepted to TMLR. Congrats to Lianyu Hu!</li>
 <li class="news-item">- <em>2026.08</em>: &nbsp;🏆 Our team KVeil won the 🏅 <span style="color: red;"><strong>Champion (1st Place)</strong></span> in both the preliminary and final phases of the <a href="https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit">LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization @ ECCV 2026</a>! Our technical report and paper will be available soon.</li>
-<li class="news-item">- <em>2026.08</em>: &nbsp;🎉🎉 Three papers are accepted to EMNLP 2026 (Main Conference). Congrats to Qingjie Zhang, Yanghao Su, and Yutong Zhang!</li>
+<li class="news-item">- <em>2026.08</em>: &nbsp;🎉🎉 Three papers are accepted to EMNLP 2026 (Main Conference, one <span style="color: red;"><strong>Oral</strong></span>). Congrats to Qingjie Zhang, Yanghao Su, and Yutong Zhang!</li>
 <li class="news-item">- <em>2026.08</em>: &nbsp;🎉🎉 One paper is accepted to TIFS. Congrats to Fengqi Cui!</li>
 <li class="news-item">- <em>2026.07</em>: &nbsp;🎉🎉 One paper is accepted to ECCV 2026. Congrats to Mingxuan Cui!</li>
 <li class="news-item">- <em>2026.07</em>: &nbsp;🎉🎉 One paper is accepted to ACM MM 2026. Congrats to Haoran Ou!</li>
@@ -220,7 +220,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 - <span id="pub-intenttool"></span>Yutong Zhang, Jianshuo Dong, Peng Xu, Long Wang, **Jie Zhang**, Tianwei Zhang, Xiaoping Zhang, Han Qiu, **INTENT-AS-A-TOOL Makes it Easy to Track Agentic Misalignment**, Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026
 
-- <span id="pub-personaswitch"></span>Yanghao Su, Wenbo Zhou, Tianwei Zhang, Han Qiu, Nenghai Yu, Weiming Zhang, **Jie Zhang**, **The Persona-Switch Backdoor: From Payload Retrieval to Trigger-Gated Persona-State Selection**, Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026
+- <span id="pub-personaswitch"></span>Yanghao Su, Wenbo Zhou, Tianwei Zhang, Han Qiu, Nenghai Yu, Weiming Zhang, **Jie Zhang**, **The Persona-Switch Backdoor: From Payload Retrieval to Trigger-Gated Persona-State Selection**, Conference on Empirical Methods in Natural Language Processing (EMNLP), <span style="color: red;"><strong>Oral</strong></span>, 2026
 
 - <span id="pub-bpeaudit"></span>Qingjie Zhang, Ziqi Tang, **Jie Zhang**, Gelei Deng, Jinfeng Li, YueFeng Chen, Yitong Yang, Hui Xue, Tianwei Zhang, Han Qiu, **Auditing Chinese Web-scale Corpora via Sampled BPE Token Statistics**, Conference on Empirical Methods in Natural Language Processing (EMNLP), 2026
 
