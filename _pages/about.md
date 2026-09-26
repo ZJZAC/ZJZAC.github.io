@@ -63,27 +63,22 @@ Others
     margin-bottom: 8px;
 }
 
-.news-item.hidden {
-    display: none;
+#news-list {
+    max-height: 340px;
+    overflow-y: auto;
+    padding-right: 10px;
+    scrollbar-width: thin;
+    scrollbar-color: #b6c6dd transparent;
 }
-
-.toggle-button {
-    text-decoration: underline;
-    color: #007bff;
-    border: none;
-    outline: none;
-    padding: 8px 15px;
-    cursor: pointer;
-    /* margin-top: 5px; */
-    font-size: 16px;
-    background: transparent !important;
-    box-shadow: none !important;
-    /* transition: background-color 0.3s; */
+#news-list::-webkit-scrollbar {
+    width: 6px;
 }
-
-.toggle-button:hover {
-    background: transparent !important;
-    box-shadow: none !important;
+#news-list::-webkit-scrollbar-thumb {
+    background: #b6c6dd;
+    border-radius: 3px;
+}
+#news-list::-webkit-scrollbar-thumb:hover {
+    background: #3a7bd5;
 }
 </style>
 
@@ -155,40 +150,6 @@ Others
 <li class="news-item">- <em>2023.12</em>: &nbsp;🎉🎉 One paper is accepted to ICASSP 2024. Congrats to Prof. Wenbo Zhou!</li>
 <li class="news-item">- <em>2023.11</em>: &nbsp;🎉🎉 One paper is accepted to NDSS 2024. Congrats to Chang Liu!</li>
 </ul>
-
-<button class="toggle-button" onclick="toggleNews()" id="toggle-btn">More</button>
-
-<script>
-function toggleNews() {
-    const newsItems = document.querySelectorAll('.news-item');
-    const button = document.getElementById('toggle-btn');
-    const hiddenItems = document.querySelectorAll('.news-item.hidden');
-    
-    if (hiddenItems.length > 0) {
-        // 显示所有隐藏的条目
-        hiddenItems.forEach(item => item.classList.remove('hidden'));
-        button.textContent = 'Fold';
-    } else {
-        // 隐藏第10个之后的条目
-        newsItems.forEach((item, index) => {
-            if (index >= 10) {
-                item.classList.add('hidden');
-            }
-        });
-        button.textContent = 'More';
-    }
-}
-
-// 页面加载时隐藏第10个之后的条目
-document.addEventListener('DOMContentLoaded', function() {
-    const newsItems = document.querySelectorAll('.news-item');
-    newsItems.forEach((item, index) => {
-        if (index >= 10) {
-            item.classList.add('hidden');
-        }
-    });
-});
-</script>
 
 
 
