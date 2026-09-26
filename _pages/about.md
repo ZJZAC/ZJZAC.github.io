@@ -45,7 +45,7 @@ My recent research interest mainly focuses on ***How to build Trustworthy AI & G
 
 Others
 - **Affective Computing**: [[MM 2024]](#pub-facialpulse), [[CVPR 2025]](#pub-avfmae), [[MM 2025]](#pub-heterogeneity), [[TIFS 2026]](#pub-trustdfer)
-- **AI for Science**: [[AI4X 2025]](#pub-sae), [[AI for Science 2025]](#pub-chemsafety)
+- **AI for Science**: [[AI4X 2025]](#pub-sae), [[AI for Science 2025]](#pub-chemsafety), [[Nature BME 2026]](#pub-lifespan)
 
 </details>
 
@@ -88,6 +88,7 @@ Others
 </style>
 
 <ul id="news-list" style="list-style-type: none; padding-left: 0;">
+<li class="news-item">- <em>2026.09</em>: &nbsp;🎉🎉 One paper is accepted to <span style="color: red;"><strong>Nature Biomedical Engineering</strong></span>. Congrats to Ting Xu!</li>
 <li class="news-item">- <em>2026.09</em>: &nbsp;🎉🎉 Six papers are accepted to NeurIPS 2026 (3 in Main Track with one <span style="color: red;"><strong>Spotlight</strong></span>, 1 in Position Paper Track, and 2 in Evaluations & Datasets Track). Congrats to Runyi Hu, Haoran Ou, Jiale Meng, Toluwani Aremu, Yanxi Wang, and Yidan Sun!</li>
 <li class="news-item">- <em>2026.09</em>: &nbsp;🎉🎉 One paper is accepted to TMLR. Congrats to Lianyu Hu!</li>
 <li class="news-item">- <em>2026.08</em>: &nbsp;🏆 Our team KVeil won the 🏅 <span style="color: red;"><strong>Champion (1st Place)</strong></span> in both the preliminary and final phases of the <a href="https://github.com/tmllab/ECCV26_LifeGenIP_starting_kit">LifeGenIP Challenge: Unlearnable Videos against Diffusion-based Customization @ ECCV 2026</a>! Our technical report and paper will be available soon.</li>
@@ -200,6 +201,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 # 📝 Publications 
+
+- <span id="pub-lifespan"></span>Ting Xu, QingSheng Peng, Hengtong Li, Meng Wang, **Jie Zhang**, Marco Yu, Crystal Chun Yuen Chong, Cancan Xue, Xiayin Zhang, Hongyu He, Emily Chew, Mukharram Bikbov, Gyulli Kazakbaeva, Jost Jonas, Huazhu Fu, Dianbo Liu, **Re-timing Mortality Risk through Individualized Modeling of Lifespan Trajectories**, <span style="color: red;"><strong>Nature Biomedical Engineering</strong></span>, 2026
 
 - <span id="pub-sparsejunction"></span>Runyi Hu, **Jie Zhang**, Shiqian Zhao, Jiale Meng, Jiwei Li, Jason Zeng, Ming Wu, Michael Heinrich, Yonggang Wen, Tianwei Zhang, **Inference-time Alignment via Sparse Junction Steering**, Annual Conference on Neural Information Processing Systems (NeurIPS), <span style="color: red;"><strong>Spotlight</strong></span>, 2026
 

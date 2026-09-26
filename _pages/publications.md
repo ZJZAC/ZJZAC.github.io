@@ -19,6 +19,11 @@ author_profile: true
 ## 2026
 
 <div class="pub-item">
+<span class="venue">[Nature BME]</span> <span class="title">Re-timing Mortality Risk through Individualized Modeling of Lifespan Trajectories</span><br>
+<span class="authors">Ting Xu, QingSheng Peng, Hengtong Li, Meng Wang, <strong>Jie Zhang</strong>, Marco Yu, Crystal Chun Yuen Chong, Cancan Xue, Xiayin Zhang, Hongyu He, Emily Chew, Mukharram Bikbov, Gyulli Kazakbaeva, Jost Jonas, Huazhu Fu, Dianbo Liu</span>
+</div>
+
+<div class="pub-item">
 <span class="venue">[NeurIPS]</span> <span class="title">Inference-time Alignment via Sparse Junction Steering</span> <span class="note">Spotlight</span><br>
 <span class="authors">Runyi Hu, <strong>Jie Zhang</strong>, Shiqian Zhao, Jiale Meng, Jiwei Li, Jason Zeng, Ming Wu, Michael Heinrich, Yonggang Wen, Tianwei Zhang</span>
 </div>
