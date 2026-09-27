@@ -79,7 +79,7 @@ h1.page__title {
   height: 3px;
   width: 48px;
   border-radius: 2px;
-  background: linear-gradient(90deg, #3a7bd5, #00b4a0);
+  background: linear-gradient(90deg, #6a55c8, #8b7ce8);
   transition: width 0.4s ease;
 }
 .page__content h2:hover::after {
@@ -119,39 +119,73 @@ html {
    Hero banner, typing effect, stats wall, particle background
    ============================================================ */
 
-/* ---------- Hero banner ---------- */
+/* ---------- Anthropic-style warm editorial theme ---------- */
+body {
+  background: #faf9f5;
+}
+
+/* ---------- Hero banner: violet space-dome horizon (brand) ---------- */
 .hero-banner {
   text-align: center;
-  padding: 28px 16px 20px;
-  margin-bottom: 18px;
-  border-radius: 14px;
-  background: linear-gradient(135deg, rgba(58, 123, 213, 0.08), rgba(0, 180, 160, 0.08));
-  border: 1px solid rgba(58, 123, 213, 0.15);
+  padding: 96px 16px 120px;
+  margin-bottom: 26px;
+  border-radius: 0;
+  border: none;
+  /* full-width breakout from the content column */
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  position: relative;
+  overflow: hidden;
+  background:
+    /* faint stars */
+    radial-gradient(1px 1px at 12% 18%, rgba(232,237,249,0.9), transparent 60%),
+    radial-gradient(1px 1px at 28% 8%,  rgba(232,237,249,0.6), transparent 60%),
+    radial-gradient(1.5px 1.5px at 44% 14%, rgba(232,237,249,0.8), transparent 60%),
+    radial-gradient(1px 1px at 61% 6%,  rgba(232,237,249,0.55), transparent 60%),
+    radial-gradient(1px 1px at 73% 16%, rgba(232,237,249,0.85), transparent 60%),
+    radial-gradient(1.5px 1.5px at 86% 10%, rgba(232,237,249,0.65), transparent 60%),
+    radial-gradient(1px 1px at 92% 24%, rgba(232,237,249,0.5), transparent 60%),
+    /* arc glow hugging the dome curve */
+    radial-gradient(ellipse 140% 90% at 50% 108%, transparent 60%, rgba(139,124,232,0.85) 63%, rgba(106,85,200,0.35) 66%, transparent 71%),
+    /* planet surface: larger dark dome with curved horizon */
+    radial-gradient(ellipse 140% 90% at 50% 108%, #0c0916 64%, rgba(12,9,22,0) 65%),
+    /* sky: soft violet haze deepening upward, no hard glow band */
+    linear-gradient(to bottom, #0c0916 0%, #1d1733 40%, #3d3266 66%, #6a55c8 88%, #8b7ce8 96%, #241d42 100%);
 }
 .hero-title {
-  font-size: 1.9em;
-  font-weight: 700;
-  margin-bottom: 8px;
-  color: #222;
+  font-family: Georgia, "Times New Roman", "Songti SC", serif;
+  font-size: 2.6em;
+  font-weight: 500;
+  margin-bottom: 16px;
+  color: #e8edf9;
+  text-shadow: 0 2px 24px rgba(0, 0, 0, 0.5);
+  letter-spacing: 0.5px;
 }
 .hero-name {
-  background: linear-gradient(90deg, #224b8f, #3a7bd5, #00b4a0);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  color: transparent;
+  color: #fbbf24;
+  font-style: italic;
+  text-shadow: 0 0 26px rgba(251, 191, 36, 0.45);
 }
 .hero-subtitle {
-  font-size: 1.15em;
-  color: #3a7bd5;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.1em;
+  color: #c9bff0;
   min-height: 1.6em;
-  font-weight: 500;
+  font-weight: 400;
+  text-shadow: 0 1px 12px rgba(0, 0, 0, 0.5);
 }
 .hero-cursor {
   display: inline-block;
   margin-left: 2px;
-  color: #3a7bd5;
+  color: #fbbf24;
   animation: cursorBlink 0.9s step-end infinite;
+}
+
+/* section headings: editorial serif */
+.page__content h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 500;
+  color: #141413;
 }
 @keyframes cursorBlink {
   0%, 100% { opacity: 1; }
@@ -192,12 +226,11 @@ html {
   animation: ltrReveal 0.7s cubic-bezier(0.22, 0.61, 0.36, 1) forwards;
   animation-delay: var(--d, 0s);
   /* gradient must live on each letter: background-clip:text on the
-     parent does not paint through inline-block children */
-  background: linear-gradient(90deg, #224b8f, #3a7bd5, #00b4a0);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  color: transparent;
+     parent does not paint through inline-block children.
+     Brand violet dome: gold letters with soft glow. */
+  color: #fbbf24;
+  font-style: italic;
+  text-shadow: 0 0 22px rgba(251, 191, 36, 0.4);
 }
 @keyframes ltrReveal {
   to {
@@ -213,4 +246,50 @@ html {
     filter: none;
     transform: none;
   }
+}
+
+/* ============================================================
+   Reading progress bar, news fade mask, magnetic avatar
+   ============================================================ */
+
+/* ---------- Reading progress bar (top) ---------- */
+#reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  width: 0%;
+  z-index: 1000;
+  background: linear-gradient(90deg, #6a55c8, #8b7ce8);
+  transition: width 0.08s linear;
+  pointer-events: none;
+}
+
+/* ---------- News list bottom fade mask ---------- */
+.news-scroll-wrap {
+  position: relative;
+}
+.news-scroll-wrap::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 44px;
+  background: linear-gradient(to bottom, rgba(250, 249, 245, 0), #faf9f5 88%);
+  pointer-events: none;
+}
+.news-scroll-wrap.at-bottom::after {
+  opacity: 0;
+  transition: opacity 0.35s ease;
+}
+
+/* ---------- Magnetic avatar ---------- */
+.author__avatar {
+  transition: transform 0.25s cubic-bezier(0.22, 0.61, 0.36, 1);
+  will-change: transform;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #reading-progress { display: none; }
 }

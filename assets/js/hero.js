@@ -128,11 +128,74 @@
     });
   }
 
+  /* ---------- Reading progress bar ---------- */
+  function setupReadingProgress() {
+    if (reduced) return;
+    var bar = document.createElement("div");
+    bar.id = "reading-progress";
+    document.body.appendChild(bar);
+    var raf = null;
+    function update() {
+      var h = document.documentElement;
+      var max = h.scrollHeight - h.clientHeight;
+      var pct = max > 0 ? (h.scrollTop / max) * 100 : 0;
+      bar.style.width = pct.toFixed(2) + "%";
+      raf = null;
+    }
+    window.addEventListener("scroll", function () {
+      if (!raf) raf = requestAnimationFrame(update);
+    }, { passive: true });
+    update();
+  }
+
+  /* ---------- News fade mask: hide hint when scrolled to bottom ---------- */
+  function setupNewsFade() {
+    var list = document.getElementById("news-list");
+    if (!list) return;
+    var wrap = document.createElement("div");
+    wrap.className = "news-scroll-wrap";
+    list.parentNode.insertBefore(wrap, list);
+    wrap.appendChild(list);
+    function check() {
+      var atBottom = list.scrollTop + list.clientHeight >= list.scrollHeight - 4;
+      wrap.classList.toggle("at-bottom", atBottom);
+    }
+    list.addEventListener("scroll", check, { passive: true });
+    check();
+  }
+
+  /* ---------- Magnetic avatar ---------- */
+  function setupMagneticAvatar() {
+    if (reduced || !window.matchMedia("(pointer: fine)").matches) return;
+    var avatar = document.querySelector(".author__avatar");
+    if (!avatar) return;
+    var STRENGTH = 12; // px max pull
+    document.addEventListener("mousemove", function (e) {
+      var rect = avatar.getBoundingClientRect();
+      var cx = rect.left + rect.width / 2;
+      var cy = rect.top + rect.height / 2;
+      var dx = e.clientX - cx;
+      var dy = e.clientY - cy;
+      var dist = Math.sqrt(dx * dx + dy * dy);
+      var RADIUS = 220;
+      if (dist < RADIUS && dist > 1) {
+        var pull = (1 - dist / RADIUS) * STRENGTH;
+        avatar.style.transform =
+          "translate(" + (dx / dist * pull).toFixed(1) + "px, " + (dy / dist * pull).toFixed(1) + "px)";
+      } else {
+        avatar.style.transform = "";
+      }
+    });
+  }
+
   function init() {
     setupTyping();
     setupCounters();
     setupSpotlight();
     setupLetterReveal();
+    setupReadingProgress();
+    setupNewsFade();
+    setupMagneticAvatar();
   }
 
   if (document.readyState === "loading") {
