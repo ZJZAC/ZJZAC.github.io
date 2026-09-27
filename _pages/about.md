@@ -163,7 +163,7 @@ Others
 
 # 📝 Publications 
 
-- <span id="pub-lifespan"></span>Ting Xu, QingSheng Peng, Hengtong Li, Meng Wang, **Jie Zhang**, Marco Yu, Crystal Chun Yuen Chong, Cancan Xue, Xiayin Zhang, Hongyu He, Emily Chew, Mukharram Bikbov, Gyulli Kazakbaeva, Jost Jonas, Huazhu Fu, Dianbo Liu, **Re-timing Mortality Risk through Individualized Modeling of Lifespan Trajectories**, <span style="color: red;"><strong>Nature Biomedical Engineering</strong></span>, 2026
+- <span id="pub-lifespan"></span>Ting Xu, QingSheng Peng, Hengtong Li, Meng Wang, **Jie Zhang**, Marco Yu, Crystal Chun Yuen Chong, Cancan Xue, Xiayin Zhang, Hongyu He, Emily Chew, Mukharram Bikbov, Gyulli Kazakbaeva, Jost Jonas, Huazhu Fu, Dianbo Liu, Ching-Yu Cheng [*Corresponding Author*], **Re-timing Mortality Risk through Individualized Modeling of Lifespan Trajectories**, <span style="color: red;"><strong>Nature Biomedical Engineering</strong></span>, 2026
 
 - <span id="pub-sparsejunction"></span>Runyi Hu, **Jie Zhang**, Shiqian Zhao, Jiale Meng, Jiwei Li, Jason Zeng, Ming Wu, Michael Heinrich, Yonggang Wen, Tianwei Zhang, **Inference-time Alignment via Sparse Junction Steering**, Annual Conference on Neural Information Processing Systems (NeurIPS), <span style="color: red;"><strong>Spotlight</strong></span>, 2026
 
