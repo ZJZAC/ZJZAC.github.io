@@ -20,7 +20,7 @@ author_profile: true
 
 <div class="pub-item">
 <span class="venue">[Nature BME]</span> <span class="title">Re-timing Mortality Risk through Individualized Modeling of Lifespan Trajectories</span><br>
-<span class="authors">Ting Xu, QingSheng Peng, Hengtong Li, Meng Wang, <strong>Jie Zhang</strong>, Marco Yu, Crystal Chun Yuen Chong, Cancan Xue, Xiayin Zhang, Hongyu He, Emily Chew, Mukharram Bikbov, Gyulli Kazakbaeva, Jost Jonas, Huazhu Fu, Dianbo Liu, Ching-Yu Cheng [*Corresponding Author*]</span>
+<span class="authors">Ting Xu, QingSheng Peng, Hengtong Li, Meng Wang, <strong>Jie Zhang</strong>, Marco Yu, Crystal Chun Yuen Chong, Cancan Xue, Xiayin Zhang, Hongyu He, Emily Chew, Mukharram Bikbov, Gyulli Kazakbaeva, Jost Jonas, Huazhu Fu, Dianbo Liu, Ching-Yu Cheng</span>
 </div>
 
 <div class="pub-item">
