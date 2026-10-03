@@ -153,6 +153,10 @@ Others
 
 
 
+# 📺 Media
+
+- **[AI治理升维：智能决定走多远，信任决定走多近](https://www.toutiao.com/article/7672590514301960742/)** — Interviewed by [China Economic Times (中国经济时报)](https://www.toutiao.com/article/7672590514301960742/) on AI governance and trust infrastructure, as Co-founder & CEO of SiliconProspect AI, 2026
+
 # 📝 Selected Preprints 
 
 - [A comprehensive survey in llm (-agent) full stack safety: Data, training and deployment](https://arxiv.org/pdf/2504.15585?)
